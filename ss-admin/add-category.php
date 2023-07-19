@@ -5,8 +5,13 @@ if (isset($_POST['add-ctg'])) {
 
    
 	$category_name = $_POST['ctg_name'];
+	$target = "uploads/category/" . basename($_FILES['image']['name']);
    
-	$sql = "INSERT INTO `corporate_category`(`ctg_name`) VALUES ('$category_name')";
+	$ctg_image = $_FILES['image']['name'];
+   
+	move_uploaded_file($_FILES['image']['tmp_name'], $target);
+   
+	$sql = "INSERT INTO `corporate_category`(`ctg_name`, `ctg_img`) VALUES ('$category_name','$ctg_image')";
 
   
 	$result = mysqli_query($connect, $sql);
@@ -81,6 +86,14 @@ if (isset($_POST['add-ctg'])) {
                                             <input class="form-control" type="text" name="ctg_name" />
                                            
                                         
+									</div>
+									
+									<div class="form-group">
+                                    
+										<label>Category Thumbnails</label>
+                                        
+										<input type="file" name="image" />
+                                       
 									</div>
                                        
                                     

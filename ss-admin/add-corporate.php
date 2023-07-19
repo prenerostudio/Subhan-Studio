@@ -95,6 +95,7 @@ if (isset($_POST['upload'])) {
                                             <label>Category Name</label>
                                             
                                            <select class="form-control" name="ctg">
+											   <option value=" ">Select category</option>
 										   <?php																				
 									$query=mysqli_query($connect,"SELECT * FROM `corporate_category`");										
 									while($crow = mysqli_fetch_array($query)){										

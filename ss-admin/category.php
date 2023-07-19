@@ -52,6 +52,7 @@ include('header.php');
 									<tr>
                                    
 										<th>#</th>
+										<th>Thumbnails</th>
                                   
 										<th>Category Name</th>
                                     
@@ -82,6 +83,10 @@ include('header.php');
                                           
 										<td>
 											<?php echo $mrow['ctg_id']; ?>
+										</td>
+										
+										<td>
+											<img src="uploads/category/<?php echo $mrow['ctg_img']; ?>" alt="" style="width: 120px;">
 										</td>
                                             
 										<td>
