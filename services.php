@@ -51,7 +51,43 @@ include('header.php');
         </div>
     </section>
    
-  
+   <!-- section begin -->
+    <section id="section-services" style=" padding-top:100px  ; padding-bottom:90px ;">
+        <div class="container">
+            <div class="row ">
+                <div class="col-md-12 text-center">
+                    <h2 class="">Our Client </h2>
+                    <div class="small-border"></div>
+                </div>
+
+                <div class="col-md-6 col-lg-3 text-center">
+                    <img src="./img/Superior.png" alt="" class="rounded-circle" style="height:150px; width:150px;">
+                    <h4>SUPERIOR UNIVERSTY</h4>
+                    
+                </div>
+
+                <div class="col-md-6 col-lg-3 text-center">
+                    <img src="./img/Grand City.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
+                    <h4>Grand City Developers </h4>
+                    
+                </div>
+
+                <div class="col-md-6 col-lg-3 text-center">
+                    <img src="./img/Peramount.png" style="height: 150px; width:150px;" alt="" class="rounded-circle">
+                    <h4>Peramount City </h4>
+                </div>
+
+                <div class="col-md-6 col-lg-3 text-center">
+                    <img src="./img/Skin care.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
+                    <h4>Skin Care</h4>
+                </div>
+                <div class="col-md-6 col-lg-3 text-center">
+                    <img src="./img/superior colleges.png" alt="" class="rounded-circle" style="height:150px; width:150px;">
+                    <h4>Superior Colleges.png</h4>
+            </div>
+        </div>
+    </section>
+   
 <?php
  include ('footer.php');
 ?>
