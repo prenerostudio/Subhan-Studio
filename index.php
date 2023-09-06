@@ -1,340 +1,476 @@
 <?php
 include('header.php');
 ?>
+			
+			<!-- Start Slider Are -->
+			<section id="atf-slider" class="atf-slider atf-slider-parallax">
+				<div class="swiper-container atf-parallax-slider">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<div class="atf-swiper-img atf-align-item-center" data-background="img/slider/2.jpg" data-overlay-dark="6">
+								<div class="container">
+									<div class="row justify-content-center">
+										<div class="col-lg-8 text-center">
+											<div class="atf-slider-content">
+												<h1>Event Photographer</h1>
+												<p>Subhan Photo Studio is a photography studio known for its expertise in capturing memorable moments and creating striking images, offering a range of photography services for various occasions and subjects.</p>
+												<div class="atf-main-btn mt-5">
+													<a class="atf-themes-btn" href="about.php" data-hover="Read More">
+														<span>Read More</span>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="swiper-slide">
+							<div class="atf-swiper-img atf-align-item-center" data-background="img/slider/1.jpg" data-overlay-dark="6">
+								<div class="container">
+									<div class="row justify-content-center">
+										<div class="col-lg-8 text-center">
+											<div class="atf-slider-content">
+												<h1>Event Photographer</h1>
+												<p>Subhan Photo Studio is a photography studio known for its expertise in capturing memorable moments and creating striking images, offering a range of photography services for various occasions and subjects.</p>
+												<div class="atf-main-btn mt-5">
+													<a class="atf-themes-btn" href="about.php" data-hover="Read More">
+														<span>Read More</span>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- slider setting -->
+					<div class="swiper-control-btn">
+						<div class="swiper-button-prev swiper-nav-control prev-control">
+							<span class="arrow"></span>
+						</div>
+						<div class="swiper-button-next swiper-nav-control next-control">
+							<span class="arrow"></span>
+						</div>
+					</div>
+					<div class="swiper-pagination"></div>
+				</div>
+			</section>
+			<!-- End Slider Area -->
 
-    <section>
-        <div id="carouselExampleControls" class="carousel slide " data-bs-ride="carousel" data-scroll-speed="1">
-            <div class="carousel-inner ">
-                <div class="carousel-item active menu-background-1 img-fluid ">
-                    <div class="d-flex flex-column align-items-center justify-content-center  "
-                        style="color: white; height: 100vh;">
-                        <h1 class='color Allura'>Subhan Studio</h1>
-                        <p class='color Merriweather fw-bold'>Event Photographer</p>
-                    </div>
-                </div>
-                <div class="carousel-item menu-background-2">
-                    <div class="d-flex flex-column align-items-center justify-content-center  "
-                        style="color: white; height: 100vh;">
-                        <h1 class='color Allura'>Subhan Studio</h1>
-                        <p class='color Merriweather fw-bold' >Event Photographer</p>
-                    </div>
-                </div>
-                <div class="carousel-item menu-background-3">
-                    <div class="d-flex flex-column align-items-center justify-content-center  "
-                        style="color: white; height: 100vh;">
-                        <h1 class='color Allura'>Subhan Studio</h1>
-                        <p class='color Merriweather fw-bold' >Event Photographer</p>
-                    </div>
-                </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
-                data-bs-slide="prev">
-                <span class="carousel-control-prev-icon " aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls"
-                data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
-        </div>
-    </section>
 
-    <section class="section-about ">
-        <div class="row text-center bg-light">
-            <div class=" col-md-12 col-md-offset-2 p-5">
-                <h2>Welcome to our studio</h2>
-                <hr class="small-border-1">
-                <p class="lead" align="justify">
-                    Subhan Studio is a group of highly experienced and professional photographers of Faisalabad.
-                    We believe wedding photography is all about sensing and capturing precious moment of the event
-                    for future
-                    view of the bride and groom as they are busy in their own rituals. On wedding events bride and
-                    groom are totally
-                    busy in their own rituals that they are not able to witness all the laughers, emotions and
-                    moments of joys
-                    from their own eyes. So our wedding photography should be exactly like as if the bride and groom
-                    are at their wedding function.
-                </p>
-            </div>
-        </div>
-    </section>
-    <section id="section-pricing" class="no-top" data-stellar-background-ratio=".2">
-        <div style="padding:0 50px;">
-            <div class="row mt-100">
-                <div class="col-md-12">
-                    <div class="item pricing">
-                        <div>
-                            <div class="row">
-                                <div class="col-sm-12 col-lg-4" style="padding-bottom:20px;">
-                                    <div class="pricing-s1">
-                                        <div class="top">
-                                            <h2 class="s1">Basic</h2>
-                                            <p class="price"> <b>55,000</b><span class="currency">Rs.</span>
-                                        </div>
-                                        <div class="bottom">
-                                            <ul>
-                                                <li><i class="fa-solid fa-check"></i>1 Wedding photographer</li>
-                                                <li><i class="fa-solid fa-check"></i>Bride & Groom Photoshoot</li>
-                                                <li><i class="fa-solid fa-check"></i>10 Page krizma album</li>
-                                                <li><i class="fa-solid fa-check"></i>Full Event Video</li>
-                                                <li><i class="fa-solid fa-check"></i>300 soft copies</li>
-                                            </ul>
-                                            <a href="contact.php" class="btn btn-warning">Contact Us Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-12 col-lg-4" style="padding-bottom:20px;">
-                                    <div class="pricing-s1">
-                                        <div class="top">
-                                            <h2 class="s1">Standard</h2>
-                                            <p class="price"> <b>75,000</b><span class="currency">Rs.</span>
-                                        </div>
-                                        <div class="bottom">
-                                            <ul>
-                                                <li><i class="fa-solid fa-check"></i>2 Wedding photographer</li>
-                                                <li><i class="fa-solid fa-check"></i>Bride & Groom Photoshoot</li>
-                                                <li><i class="fa-solid fa-check"></i>10 Page 2 krizma album</li>
-                                                <li><i class="fa-solid fa-check"></i>Full Event Video double camera</li>
-                                                <li><i class="fa-solid fa-check"></i>1 Day Drone Camera</li>
-                                                <li><i class="fa-solid fa-check"></i>500 soft copies</li>
-                                                <li><i class="fa-solid fa-check"></i>Cinematic Video Highlight</li>
-                                            </ul>
-                                            <a href="contact.php" class="btn btn-warning">Contact Us Now</a>
-                                        </div>
-                                    </div>
-                                </div>
+<section id="project" class="atf-section-padding">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-12 col-md-12 col-12">
+							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+								<h5 class="atf-sheading">Best Photo and Videographer in Faisalabad.</h5>
+								<h2 class="">Welcome to our <strong>Subhan Studio</strong> </h2>
+								<p class="">Subhan Studio is a group of highly experienced and professional photographers of Faisalabad. We believe wedding photography is all about sensing and capturing precious moment of the event for future view of the bride and groom as they are busy in their own rituals. On wedding events bride and groom are totally busy in their own rituals that they are not able to witness all the laughers, emotions and moments of joys from their own eyes. So our wedding photography should be exactly like as if the bride and groom are at their wedding function.</p>
+							</div>
+						</div><!--- END COL -->
+					</div><!--- END ROW -->
 
-                                <div class="col-sm-12 col-lg-4 pb-sm-4">
-                                    <div class="pricing-s1">
-                                        <div class="top">
-                                            <h2 class="s1">Premium</h2>
-                                            <p class="price"> <b>170,000</b><span class="currency">Rs.</span>
-                                        </div>
-                                        <div class="bottom">
-                                            <ul>
-                                                <li><i class="fa-solid fa-check"></i>3 Senior Wedding photographer</li>
-                                                <li><i class="fa-solid fa-check"></i>Bride & Groom Photoshoot</li>
-                                                <li><i class="fa-solid fa-check"></i>10 Page 4 krizma album</li>
-                                                <li><i class="fa-solid fa-check"></i>Full Event Video double camera</li>
-                                                <li><i class="fa-solid fa-check"></i>3 Days drone Coverage</li>
-                                                <li><i class="fa-solid fa-check"></i>Family Interview</li>
-                                                <li><i class="fa-solid fa-check"></i>Each Day Teaser</li>
-                                                <li><i class="fa-solid fa-check"></i>Canded Event Coverage</li>
-                                                <li><i class="fa-solid fa-check"></i>2 Photo Frame</li>
-                                                <li><i class="fa-solid fa-check"></i>All soft copies</li>
-                                                <li><i class="fa-solid fa-check"></i>Cinematic Video Highlight</li>
-                                            </ul>
-                                            <a href="contact.php" class="btn btn-warning">Contact Us Now</a>
-                                        </div>
-                                    </div>
-                                </div>
+				
+				</div><!--- END CONTAINER -->
+			</section>
+		
+
+			 <!-- About Section Start -->
+            <div id="about" class="atf-about style1 atf-section-padding">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-12">
+							<div class="about-image">
+                                <img src="img/about/about-side-1.jpg" alt="">
+                            </div>
+                        </div>
+                       <div class="col-xl-6 col-12 align-self-center mt-xl-40">
+                            <div class="atf-section-title">
+                                <h5>About Us</h5>
+                                <h2 class="">We're photographer & video grapher about 20+ Years.</h2>
+                                <p class="" align="justify">Elevate Your Photography and Videography with Subhan Studio: The Best Photographer and Videographer in Faisalabad In today's visual-centric world, the significance of photography and videography cannot be overstated. Whether you're capturing life's precious moments, creating content for social media, or professionally documenting events, having the right tools at your disposal can make all the difference. This is where Subhan Studio, renowned as the best photographer and videographer in Faisalabad, steps in to offer a comprehensive range of digital camera gadgets that can elevate your visual storytelling to new heights. The Artistry of Subhan Studio With an impeccable reputation in Faisalabad, Subhan Studio has earned its place as a trailblazer in the world of photography and videography. Led by a team of creative and passionate professionals, the studio is known for its exceptional ability to capture the essence of each moment, transforming it into a timeless piece of art. Unveiling the Power of Digital Camera Gadgets Subhan Studio's commitment to excellence extends beyond skill and vision. They recognize that having the right tools can significantly enhance the creative process. Let's delve into some of the remarkable digital camera gadgets offered by Subhan Studio that cater to both photographers and videographers:</p>
+                            </div>
+                            <ul class="listing-style">
+                                <li>High-Resolution DSLR and Mirrorless Cameras </li>
+                                <li>Professional-Grade Lenses Lenses </li>
+                                <li>Stabilization and Support Systems  </li>
+                                <li>External Microphones and Audio Accessories  </li>
+								<li>Drone Technology Aerial  </li>
+								<li>High-End Editing Software   </li>
+                            </ul>
+                            <div class="atf-about-btn mt-4 pt-2">
+                                <a class="atf-themes-btn" href="about.php" data-hover="about us"> <span>about us</span></a>
                             </div>
                         </div>
                     </div>
-
-
                 </div>
             </div>
-        </div>
-    </section>
+            <!-- About Section End -->
+			
+			
+			<!-- START SERVICE -->
+			<section id="project" class="atf-section-padding">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-12 col-md-12 col-12">
+							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+								<h5 class="atf-sheading"> We Offer</h5>
+								<h2 class="">Our Services</h2>
+								<p class="">Our services encompass a wide range of offerings, including professional photography for events, portraits, weddings, product shoots, and creative projects. We also provide image editing and retouching services to enhance the quality of your photos. Our team is dedicated to delivering exceptional visual content tailored to your needs.</p>
+							</div>
+						</div><!--- END COL -->
+					</div><!--- END ROW -->
 
-    <!-- section begin -->
-    <section >
+					<div class="row">			
+						<div class="col-md-12">
+							<div id="atf-home-active" class="atf-main-testimonials atf-testimonial-slider owl-carousel owl-theme">
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										
+										<a href="img/services/service-makeup.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/service-makeup.jpg" alt="Blog">
+										</a> 
+									</div>
+									
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title">
+											<a href="#">Event Make Up</a>
+										</h3>
+										
+										<p class="atf-best-service-description">We have professional Beautition who deal Bridal MakeUp, Party MakeUp, Hair dye.</p>
+									</div>
+								</div>
+								
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										<a href="img/services/event-photo.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/event-photo.jpg" alt="Blog"></a> 
+									</div>
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title"><a href="#">Event Photography</a></h3>
+										<p class="atf-best-service-description">We deal All type of photography include Wedding, corporate and Product photography.</p>
+									</div>
+								</div>
+								
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										<a href="img/services/stage.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/stage.jpg" alt="Blog"></a> 
+									</div>
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title"><a href="#">Decor Floor</a></h3>
+										<p class="atf-best-service-description">We have Decorated stage lighten floor digital lights and flower Decoration</p>
+									</div>
+								</div>
+								
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										<a href="img/services/service-dj.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/service-dj.jpg" alt="Blog"></a> 
+									</div>
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title"><a href="#">DJ Sound</a></h3>
+										<p class="atf-best-service-description">We deal all king of DJ Sound with base Kit and SMD (Surface Mount Device).</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><!--- END ROW -->
+				</div><!--- END CONTAINER -->
+			</section>
+			<!-- END SERVICE -->
+			
+			<!-- START COMPANY BRAND LOGO  -->
+			<div id="atf-brand-area" class="atf-section-padding">
+				<div class="atf-brand-overlay">
+					<div class="container">
+						<div class="row clearfix">
+							<div class="col-md-12 col-lg-12">
+								<div class="atf-brand-active owl-carousel">
+									<a href="#"><img src="img/partner/Grand City.jpg" alt="image"></a>
+									<a href="#"><img src="img/partner/Peramount.png" alt="image"></a>
+									<a href="#"><img src="img/partner/Skin care.jpg" alt="image"></a>
+									<a href="#"><img src="img/partner/spirit-school-logo.png" alt="image"></a>
+									<a href="#"><img src="img/partner/superior colleges.png" alt="image"></a>
+									<a href="#"><img src="img/partner/Superior.png" alt="image"></a>
+									<!--<a href="#"><img src="img/partner/2.png" alt="image"></a>
+									<a href="#"><img src="img/partner/3.png" alt="image"></a>
+									<a href="#"><img src="img/partner/4.png" alt="image"></a>
+									<a href="#"><img src="img/partner/5.png" alt="image"></a>-->
+								</div>
+							</div><!-- END COL  -->
+						</div><!--END  ROW  -->
+					</div><!-- END CONTAINER  -->
+				</div><!-- END OVERLAY -->
+			</div>
+			<!-- END COMPANY BRAND LOGO -->	
+			
+			
+			<!-- START HIRE -->
+			<div class="atf-hire">
+				<div class="container">
+					<div class="row atf-hire-area">
+						<div class="col-xl-8 col-12">
+							<div class="atf-hire-inner">
+								<div class="atf-hire-content">
+									<h3>Prepare For your Photo & Video Service</h3>
+									<p>Are you looking for best photographer for your Function?</p>
+								</div>
+							</div>
+						</div><!--- END COL -->
+						<div class="col-xl-4 col-12 atf-hire-btn text-end mt-lg-40 mt-3">
+							<a href="contact.php" class="atf-themes-btn" data-hover="Get Start Now"> <span>Get Start Now</span> </a>
+						</div>
+					</div><!--- END ROW -->
+				</div><!--- END CONTAINER -->
+			</div>
+			<!-- END HIRE-->
+			
+			
+					
+			<!-- TESTIMONIAL SECTION START-->
+			<section id="testimonial" class="atf-section-padding">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-6 col-md-7 col-12">
+							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+								<h5 class="atf-sheading"> Testimonial</h5>
+								<h2 class="text-white">Client Feedback</h2>
+								<p class="text-white">Lorem ipsum dolor sit amet elit , consectetur adipiscing , sed eiusmod tempor sit amet elit dolor sit amet elit.</p>
+							</div>
+						</div><!--- END COL -->
+					</div><!--- END ROW -->
+					
+	
+					<div class="row">	
+						<!-- Testimonials section Starts-->
+						<div class="col-lg-12">
+							<div id="testimonial-slider" class="atf-testimonials-slide atf-main-testimonials atf-testimonial-slider owl-carousel owl-theme">
+								<div class="testimonial">
+									<div class="pic">
+										<img src="img/portfolio/1.jpg" alt="Portfolio Image">
+									</div>
+									<h3 class="testimonial-title">Abdul Mubdi</h3>
+									<small class="post">Web Designer</small>
+									<p class="description">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ornare eros. Proin nec pulvinar augue, at.
+									</p>
+								</div>
+								
+								<div class="testimonial">
+									<div class="pic">
+										<img src="img/portfolio/2.jpg" alt="Portfolio Image">
+									</div>
+									<h3 class="testimonial-title">Abdul Mushi</h3>
+									<small class="post">Web Developer</small>
+									<p class="description">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ornare eros. Proin nec pulvinar augue, at.
+									</p>
+								</div>
+								
+								<div class="testimonial">
+									<div class="pic">
+										<img src="img/portfolio/3.jpg" alt="Portfolio Image">
+									</div>
+									<h3 class="testimonial-title">Abdul Hasib</h3>
+									<small class="post">Web Developer</small>
+									<p class="description">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ornare eros. Proin nec pulvinar augue, at.
+									</p>
+								</div>
+								
+								<div class="testimonial">
+									<div class="pic">
+										<img src="img/portfolio/1.jpg" alt="Portfolio Image">
+									</div>
+									<h3 class="testimonial-title">Abdul Wahid</h3>
+									<small class="post">Web Developer</small>
+									<p class="description">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ornare eros. Proin nec pulvinar augue, at.
+									</p>
+								</div>
+							</div>
+						</div><!--- END COL -->
+					</div><!--- END ROW -->
+				</div><!--- END CONTAINER -->
+			</section>
+			<!-- TESTIMONIAL SECTION END-->
+		   
+			<section id="pricing" class="atf-pricing-area atf-section-padding">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-4 col-md-6 col-12">
+							<div class="pricingTable">
+								<div class="pricingTable-header">
+									<div class="price-value">
+										<span class="amount">55,000</span>
+										<span class="currency">PKR</span>
+										<!--<span class="duration">per-month</span>-->
+									</div>
+								</div>
+								<h2 class="title">Basic</h2>
+								<ul class="pricing-content">
+									<li>1 Wedding photographer</li>
+									<li>Bride & Groom Photoshoot</li>
+									<li>10 Page krizma album</li>
+									<li>Full Event Video</li>
+									<li>300 soft copies</li>
+									<li class="disable">1 Day Drone Camera</li>
+									
+									<li class="disable">Cinematic Video Highlight</li>
+									<li class="disable">Family Interview</li>
+									<li class="disable">Each Day Teaser</li>
+									<li class="disable">Canded Event Coverage</li>
+									<li class="disable">2 Photo Frame</li>
+								</ul>
+								<div class="atf-about-btn">
+									<a class="atf-themes-btn" data-hover="Contact Us" href="contact.php">
+										<span> Contact Us</span>
+									</a>
+								</div>	
+							</div>
+						</div>
+						
+						<div class="col-lg-4 col-md-6 col-12">
+							<div class="pricingTable">
+								<div class="pricingTable-header">
+									<div class="price-value">
+										<span class="amount">75,000</span>
+										<span class="currency">PKR</span>
+										<!--<span class="duration">per-month</span>-->
+									</div>
+								</div>
+								<h2 class="title">Standard</h2>
+								<ul class="pricing-content">
+									<li>2 Wedding photographer</li>
+									<li>Bride & Groom Photoshoot</li>
+									<li>10 Page 2 krizma album</li>
+									<li>Full Event Video double camera</li>
+									<li>500 soft copies</li>
+									<li>1 Day Drone Camera</li>
+									<li>Cinematic Video Highlight</li>
+									<li class="disable">Family Interview</li>
+									<li class="disable">Each Day Teaser</li>
+									<li class="disable">Canded Event Coverage</li>
+									<li class="disable">2 Photo Frame</li>
+								</ul>
+								<div class="atf-about-btn">
+									<a class="atf-themes-btn" data-hover="Contact Us" href="contact.php">
+										<span> Contact Us</span>
+									</a>
+								</div>	
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 col-12">
+							<div class="pricingTable">
+								<div class="pricingTable-header">
+									<div class="price-value">
+										<span class="amount">170,000</span>
+										<span class="currency">PKR</span>
+										<!--<span class="duration">per-month</span>-->
+									</div>
+								</div>
+								<h2 class="title">Premium</h2>
+								<ul class="pricing-content">
+									
 
-        <div class="bg-light ">
-            <div class=" px-sm-3 px-lg-5">
-                <div>
-                    <h2 class="d-flex justify-content-center py-5">About Us</h2>
-                </div>
-                <div class="row ">
-                    <!-- card-1 -->
-                    <div class="col-12 col-lg-6">
-                        <img src="./img/bg-side-1.jpg" alt="" height="350px" width="660px">
-                    </div>
-                    <div class="col-12 col-lg-6 d-flex align-items-center ps-lg-5" >
-                        <div class=" ">
-                            <h2>Who We Are</h2>
-                            <p>We spread colors in your life and offering you high quality photography for <br> Wedding and
-                                Events.</p>
-                            <a href="packages.php" class="btn btn-warning">View Packages</a>
-                        </div>
-                    </div>
-                
-            
-            <!-- <div class="bg-light"> -->
-                <!-- <div class="row"> -->
-                    <div class="col-12 col-lg-6 pt-5 d-flex align-items-center">
-                        <div>
-                            <h2> Our Gadgets</h2>
-                            <p>We used latest gadgets for our profession & capture your beautiful time.</p>
-                            <a href="services.php" class="btn btn-warning">Discover More</a>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-6 py-5 pe-lg-5">
-                        <img src="./img/gadgets.jpg" class="" alt="" height="350px" width="660px">
-                    </div>
-    
-                <!-- </div> -->
-            <!-- </div> -->
-            </div>
-        </div>
-    </section>
-    <!-------------- Discount end ----------------->
 
-    <!-- section begin -->
-    <section id="section-services" class="text-light"
-        style="background-color:#b28f1d; padding-top:100px  ; padding-bottom:90px ;">
-        <div class="container">
-            <div class="row ">
-                <div class="col-md-12 text-center">
-                    <h2 class="s1">Services</h2>
-                    <div class="small-border"></div>
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center pt-sm-5 pt-lg-0">
-                    <img src="./img/service-makeup.jpg" alt="" class="rounded-circle"
-                        style="height:150px; width:150px;">
-                    <h4 class="pt-3">Event Make Up</h4>
-                    We have professional Beautition who deal Bridal MakeUp, Party MakeUp, Hair dye.
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center pt-sm-5 pt-lg-0">
-                    <img src="./img/service-event.JPG" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4 class="pt-3">Event photography</h4>
-                    We deal All type of photography include Wedding, corporate and Product photography.
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center pt-sm-5 pt-lg-0">
-                    <img src="./img/stage.jpg" style="height: 150px; width:150px;" alt="" class="rounded-circle">
-                    <h4 class="pt-3">Decor Floor</h4>
-                    We have Decorated stage lighten floor digital lights and flower Decoration
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center pt-sm-5 pt-lg-0">
-                    <img src="./img/service-dj.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4 class="pt-3">DJ Sound</h4>
-                    We deal all king of DJ Sound with base Kit and SMD (Surface Mount Device).
-                </div>
-            </div>
-        </div>
-    </section>
+
+
+
+
+									<li>3 Senior Wedding photographer</li>
+									<li>Bride & Groom Photoshoot</li>
+									<li>10 Page 4 krizma album</li>
+									<li class="">Full Event Video double camera</li>
+									<li class="">3 Days drone Coverage</li>
+									
+									<li>Family Interview</li>
+									<li>Each Day Teaser</li>
+									<li>Canded Event Coverage</li>
+									<li class="">2 Photo Frame</li>
+									<li class="">All soft copies</li>
+									<li class="">Cinematic Video Highlight</li>
+								</ul>
+								<div class="atf-about-btn">
+									<a class="atf-themes-btn" data-hover="Contact Us" href="contact.php">
+										<span> Contact Us</span>
+									</a>
+								</div>	
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			<!-- START  PROCESS SECTION-->
+			<section id="processing" class="atf-processing-area atf-section-padding">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-6 col-md-7 col-12">
+							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+								<h5 class="atf-sheading">Process</h5>
+								<h2 class="">Our Processing</h2>
+								
+							</div>
+						</div><!--- END COL -->
+					</div><!--- END ROW -->
+					
+					<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<div class="process">
+								<div class="process-icon">
+									<span><i class="fa fa-globe"></i></span>
+								</div>
+								<h3 class="title">Editing <span>Process</span></h3>
+								
+							</div>
+						</div>
+						
+						<div class="col-lg-3 col-md-6">
+							<div class="process">
+								<div class="process-icon">
+									<span><i class="fa fa-rocket"></i></span>
+								</div>
+								<h3 class="title">Video <span>Graphic</span></h3>
+								
+							</div>
+						</div>
+						
+						<div class="col-lg-3 col-md-6">
+							<div class="process">
+								<div class="process-icon">
+									<span><i class="fa fa-rocket"></i></span>
+								</div>
+								<h3 class="title">Final <span>Shoting</span></h3>
+								
+							</div>
+						</div>
+						
+						<div class="col-lg-3 col-md-6">
+							<div class="process">
+								<div class="process-icon">
+									<span><i class="fa fa-rocket"></i></span>
+								</div>
+								<h3 class="title">Photo <span>Graphy</span></h3>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- END  PROCESS SECTION-->
+
+	
+			
+		<?php
+			include('footer.php');
+			?>
 		
-		<section id="section-services" style=" padding-top:100px  ; padding-bottom:90px ;">
-        <div class="container">
-            <div class="row ">
-                <div class="col-md-12 text-center">
-                    <h2 class="">Our Clients </h2>
-                    <div class="small-border"></div>
-                </div>
-
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/Superior.png" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>SUPERIOR UNIVERSTY</h4>
-                    
-                </div>
-
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/Grand City.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>Grand City Developers </h4>
-                    
-                </div>
-
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/Peramount.png" style="height: 150px; width:150px;" alt="" class="rounded-circle">
-                    <h4>Peramount City </h4>
-                     </div>
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/superior colleges.png" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>Superior Colleges.png</h4>
-                </div>
-                
-
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/Skin care.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>Skin Care</h4>
-                </div>
-            </div>
-        </div>
-    </section>
-		
-    <div style="background-color:#b28f1d; height: 50px;"></div>
-    
-<section>
-    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-inner container">
-    
-    <div class="carousel-item active">
-      <div class="row py-5">
-        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-            <img src="img/team-1.jpeg" class="rounded-3" alt="team" style="height:300px; width:350px;">
-            <h3 class="text-secondary">CEO</h3>
-            <h3 class="pt-3">Yasir Mirza</h3>
-        </div>
-        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-            <img src="img/team-6.jpeg" class="rounded-3" alt="team" style="height:300px; width:350px;">
-                        <h3 class="text-secondary">CEO</h3>
-            <h3 class="pt-3">Mirza Zia Hussain</h3>
-        </div>
-      </div>
-    </div>
-
-    <div class="carousel-item">
-           <div class="row py-5">
-        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-            <img src="img/team-5.jpg" class="rounded-3" alt="team" style="height:300px; width:350px;">
-            <h3 class="text-secondary">Operation Manager</h3>
-            <h3 class="pt-3">Khurram Ejaz</h3>
-        </div>
-        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-            <img src="img/team-4.jpg" class="rounded-3" alt="team" style="height:300px; width:350px;">
-            <h3 class="text-secondary">Photographer</h3>
-            <h3 class="pt-3">Shahbaz Ali</h3>
-        </div>
-      </div>
-    </div>
-    
-    <div class="carousel-item">
-           <div class="row py-5">
-        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-            <img src="img/team-3.jpeg" class="rounded-3" alt="team" style="height:300px; width:350px;">
-            <h3 class="text-secondary">Videographer</h3>
-            <h3 class="pt-3">Imran ALi</h3>
-        </div>
-        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
-            <img src="img/team-7.jpg" class="rounded-3" alt="team" style="height:300px; width:350px;">
-            <h3 class="pt-3">Asad Ali</h3>
-        </div>
-      </div>
-    </div>
-
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-    </section>
-
-<section class="call-to-action  text-light d-flex align-items-center justify-content-center  "
-    style="	background: rgb(212, 175, 55);height:150px; font-family: 'Times New Roman', Times, serif;  ">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8">
-                <h4 class="mt10 Teaser">Are you looking for best photographer for your Function?</h4>
-            </div>
-
-            <div class="col-md-4 d-sm-flex justify-content-sm-center d-lg-block pt-sm-3 pt-lg-0">
-                <a href="contact.php" class="btn btn-outline-light">Contact Us </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<?php
-		include('footer.php');
-		?>

@@ -1,101 +1,143 @@
 <?php
 include('header.php');
 ?>
-    <section id="subheader" class="subheader_02 dark no-top no-bottom" data-stellar-background-ratio=".2">
-        <div class="wrap">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center fadeScroll relative" data-scroll-speed="2">
-                        <h2 data-scroll-speed="8" class="background-text">packages</h2>
-                        <div class="small-border"></div>
-                        <div class="spacer-double"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- section begin -->
-    <section id="section-pricing" class="no-top pt-5" data-stellar-background-ratio=".2">
-        <div style="padding:0 50px;">
-            <div class="row mt-100">
-                <div class="col-md-12">
-                    <div class="item pricing">
-                        <div>
-                            <div class="row">
-                                <div class="col-sm-12 col-lg-4" style="padding-bottom:20px;">
-                                    <div class="pricing-s1">
-                                        <div class="top">
-                                            <h2 class="s1">Basic</h2>
-                                            <p class="price"> <b>55,000</b><span class="currency">Rs.</span>
-                                        </div>
-                                        <div class="bottom">
-                                            <ul>
-                                                <li><i class="fa-solid fa-check"></i>1 Wedding photographer</li>
-                                                <li><i class="fa-solid fa-check"></i>Bride & Groom Photoshoot</li>
-                                                <li><i class="fa-solid fa-check"></i>10 Page krizma album</li>
-                                                <li><i class="fa-solid fa-check"></i>Full Event Video</li>
-                                                <li><i class="fa-solid fa-check"></i>300 soft copies</li>
-                                            </ul>
-                                            <a href="" class="btn btn-warning">Contact Us Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-12 col-lg-4" style="padding-bottom:20px;">
-                                    <div class="pricing-s1">
-                                        <div class="top">
-                                            <h2 class="s1">Standard</h2>
-                                            <p class="price"> <b>75,000</b><span class="currency">Rs.</span>
-                                        </div>
-                                        <div class="bottom">
-                                            <ul>
-                                                <li><i class="fa-solid fa-check"></i>2 Wedding photographer</li>
-                                                <li><i class="fa-solid fa-check"></i>Bride & Groom Photoshoot</li>
-                                                <li><i class="fa-solid fa-check"></i>10 Page 2 krizma album</li>
-                                                <li><i class="fa-solid fa-check"></i>Full Event Video double camera</li>
-                                                <li><i class="fa-solid fa-check"></i>1 Day Drone Camera</li>
-                                                <li><i class="fa-solid fa-check"></i>500 soft copies</li>
-                                                <li><i class="fa-solid fa-check"></i>Cinematic Video Highlight</li>
-                                            </ul>
-                                            <a href="" class="btn btn-warning">Contact Us Now</a>
-                                        </div>
-                                    </div>
-                                </div>
+<!-- Start-page-heading -->
+			
+<div class="atf-page-heading atf-size-md atf-dynamic-bg" style="background-image: url(img/blog/5.jpg); background-size:cover; background-position: center center;">
+				
+	<div class="container">
+					
+		<div class="atf-page-heading-in text-center">
+						
+			<h1 class="atf-page-heading-title">Our Packages</h1>
+						
+			<div class="atf-post-label">
+						
+				<span><a href="index.php">Home</a></span>
+							
+				<span>Our Packages</span>
+						
+			</div>
+					
+		</div>
+				
+	</div>
+			
+</div>
+			
 
-                                <div class="col-sm-12 col-lg-4 pb-sm-4">
-                                    <div class="pricing-s1">
-                                        <div class="top">
-                                            <h2 class="s1">Premium</h2>
-                                            <p class="price"> <b>170,000</b><span class="currency">Rs.</span>
-                                        </div>
-                                        <div class="bottom">
-                                            <ul>
-                                                <li><i class="fa-solid fa-check"></i>3 Senior Wedding photographer</li>
-                                                <li><i class="fa-solid fa-check"></i>Bride & Groom Photoshoot</li>
-                                                <li><i class="fa-solid fa-check"></i>10 Page 4 krizma album</li>
-                                                <li><i class="fa-solid fa-check"></i>Full Event Video double camera</li>
-                                                <li><i class="fa-solid fa-check"></i>3 Days drone Coverage</li>
-                                                <li><i class="fa-solid fa-check"></i>Family Interview</li>
-                                                <li><i class="fa-solid fa-check"></i>Each Day Teaser</li>
-                                                <li><i class="fa-solid fa-check"></i>Canded Event Coverage</li>
-                                                <li><i class="fa-solid fa-check"></i>2 Photo Frame</li>
-                                                <li><i class="fa-solid fa-check"></i>All soft copies</li>
-                                                <li><i class="fa-solid fa-check"></i>Cinematic Video Highlight</li>
-                                            </ul>
-                                            <a href="" class="btn btn-warning">Contact Us Now</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+			<section id="pricing" class="atf-pricing-area atf-section-padding">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-4 col-md-6 col-12">
+							<div class="pricingTable">
+								<div class="pricingTable-header">
+									<div class="price-value">
+										<span class="amount">55,000</span>
+										<span class="currency">PKR</span>
+										<!--<span class="duration">per-month</span>-->
+									</div>
+								</div>
+								<h2 class="title">Basic</h2>
+								<ul class="pricing-content">
+									<li>1 Wedding photographer</li>
+									<li>Bride & Groom Photoshoot</li>
+									<li>10 Page krizma album</li>
+									<li>Full Event Video</li>
+									<li>300 soft copies</li>
+									<li class="disable">1 Day Drone Camera</li>
+									
+									<li class="disable">Cinematic Video Highlight</li>
+									<li class="disable">Family Interview</li>
+									<li class="disable">Each Day Teaser</li>
+									<li class="disable">Canded Event Coverage</li>
+									<li class="disable">2 Photo Frame</li>
+								</ul>
+								<div class="atf-about-btn">
+									<a class="atf-themes-btn" data-hover="Contact Us" href="contact.php">
+										<span> Contact Us</span>
+									</a>
+								</div>	
+							</div>
+						</div>
+						
+						<div class="col-lg-4 col-md-6 col-12">
+							<div class="pricingTable">
+								<div class="pricingTable-header">
+									<div class="price-value">
+										<span class="amount">75,000</span>
+										<span class="currency">PKR</span>
+										<!--<span class="duration">per-month</span>-->
+									</div>
+								</div>
+								<h2 class="title">Standard</h2>
+								<ul class="pricing-content">
+									<li>2 Wedding photographer</li>
+									<li>Bride & Groom Photoshoot</li>
+									<li>10 Page 2 krizma album</li>
+									<li>Full Event Video double camera</li>
+									<li>500 soft copies</li>
+									<li>1 Day Drone Camera</li>
+									<li>Cinematic Video Highlight</li>
+									<li class="disable">Family Interview</li>
+									<li class="disable">Each Day Teaser</li>
+									<li class="disable">Canded Event Coverage</li>
+									<li class="disable">2 Photo Frame</li>
+								</ul>
+								<div class="atf-about-btn">
+									<a class="atf-themes-btn" data-hover="Contact Us" href="contact.php">
+										<span> Contact Us</span>
+									</a>
+								</div>	
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 col-12">
+							<div class="pricingTable">
+								<div class="pricingTable-header">
+									<div class="price-value">
+										<span class="amount">170,000</span>
+										<span class="currency">PKR</span>
+										<!--<span class="duration">per-month</span>-->
+									</div>
+								</div>
+								<h2 class="title">Premium</h2>
+								<ul class="pricing-content">
+									
 
 
-                </div>
-            </div>
-        </div>
-    </section>
-   
-    
+
+
+
+
+
+
+
+
+									<li>3 Senior Wedding photographer</li>
+									<li>Bride & Groom Photoshoot</li>
+									<li>10 Page 4 krizma album</li>
+									<li class="">Full Event Video double camera</li>
+									<li class="">3 Days drone Coverage</li>
+									
+									<li>Family Interview</li>
+									<li>Each Day Teaser</li>
+									<li>Canded Event Coverage</li>
+									<li class="">2 Photo Frame</li>
+									<li class="">All soft copies</li>
+									<li class="">Cinematic Video Highlight</li>
+								</ul>
+								<div class="atf-about-btn">
+									<a class="atf-themes-btn" data-hover="Contact Us" href="contact.php">
+										<span> Contact Us</span>
+									</a>
+								</div>	
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- END  PRICING SECTION-->
+
 <?php
- include ('footer.php');
+include('footer.php');
 ?>

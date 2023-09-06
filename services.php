@@ -1,93 +1,103 @@
 <?php
 include('header.php');
 ?>
+<!-- Start-page-heading -->
+			<div class="atf-page-heading atf-size-md atf-dynamic-bg" style="background-image: url(img/blog/5.jpg); background-size:cover; background-position: center center;">
+				<div class="container">
+					<div class="atf-page-heading-in text-center">
+						<h1 class="atf-page-heading-title">Our Service</h1>
+						<div class="atf-post-label">
+							<span><a href="index.html">Home</a></span>
+							<span>Video & Photo Any Service</span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- End-page-heading -->
 
-    <section id="subheader" class="subheader_02 dark no-top no-bottom" data-stellar-background-ratio=".2">
-        <div class="wrap">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center fadeScroll relative" data-scroll-speed="2">
-                        <h2 data-scroll-speed="8" class="background-text">Services</h2>
-                        <div class="small-border"></div>
-                        <div class="spacer-double"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- section begin -->
-    <section id="section-services" style=" padding-top:100px  ; padding-bottom:90px ;">
-        <div class="container">
-            <div class="row ">
-                <div class="col-md-12 text-center">
-                    <h2 class="">Services</h2>
-                    <div class="small-border"></div>
-                </div>
+<!-- START SERVICE -->
+			<section id="project" class="atf-section-padding">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-12 col-md-12 col-12">
+							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+								<h5 class="atf-sheading"> We Offer</h5>
+								<h2 class="">Our Services</h2>
+								<p class="">Our services encompass a wide range of offerings, including professional photography for events, portraits, weddings, product shoots, and creative projects. We also provide image editing and retouching services to enhance the quality of your photos. Our team is dedicated to delivering exceptional visual content tailored to your needs.</p>
+							</div>
+						</div><!--- END COL -->
+					</div><!--- END ROW -->
 
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/service-makeup.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>Event Make Up</h4>
-                    We have professional Beautition who deal Bridal MakeUp, Party MakeUp, Hair dye.
-                </div>
+					<div class="row">			
+						<div class="col-md-12">
+							<div id="atf-home-active" class="atf-main-testimonials atf-testimonial-slider owl-carousel owl-theme">
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										
+										<a href="img/services/service-makeup.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/service-makeup.jpg" alt="Blog">
+										</a> 
+									</div>
+									
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title">
+											<a href="#">Event Make Up</a>
+										</h3>
+										
+										<p class="atf-best-service-description">We have professional Beautition who deal Bridal MakeUp, Party MakeUp, Hair dye.</p>
+									</div>
+								</div>
+								
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										<a href="img/services/event-photo.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/event-photo.jpg" alt="Blog"></a> 
+									</div>
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title"><a href="#">Event Photography</a></h3>
+										<p class="atf-best-service-description">We deal All type of photography include Wedding, corporate and Product photography.</p>
+									</div>
+								</div>
+								
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										<a href="img/services/stage.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/stage.jpg" alt="Blog"></a> 
+									</div>
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title"><a href="#">Decor Floor</a></h3>
+										<p class="atf-best-service-description">We have Decorated stage lighten floor digital lights and flower Decoration</p>
+									</div>
+								</div>
+								
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										<a href="img/services/service-dj.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/service-dj.jpg" alt="Blog"></a> 
+									</div>
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title"><a href="#">DJ Sound</a></h3>
+										<p class="atf-best-service-description">We deal all king of DJ Sound with base Kit and SMD (Surface Mount Device).</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div><!--- END ROW -->
+				</div><!--- END CONTAINER -->
+			</section>
+			<!-- END SERVICE -->
 
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/service-event.JPG" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>Event photography</h4>
-                    We deal All type of photography include Wedding, corporate and Product photography.
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/stage.jpg" style="height: 150px; width:150px;" alt="" class="rounded-circle">
-                    <h4>Decor Floor</h4>
-                    We have Decorated stage lighten floor digital lights and flower Decoration
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/service-dj.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>DJ Sound</h4>
-                    We deal all king of DJ Sound with base Kit and SMD (Surface Mount Device).
-                </div>
-            </div>
-        </div>
-    </section>
-   
-   <!-- section begin -->
-    <section id="section-services" style=" padding-top:100px  ; padding-bottom:90px ;">
-        <div class="container">
-            <div class="row ">
-                <div class="col-md-12 text-center">
-                    <h2 class="">Our Client </h2>
-                    <div class="small-border"></div>
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/Superior.png" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>SUPERIOR UNIVERSTY</h4>
-                    
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/Grand City.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>Grand City Developers </h4>
-                    
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/Peramount.png" style="height: 150px; width:150px;" alt="" class="rounded-circle">
-                    <h4>Peramount City </h4>
-                </div>
 
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/Skin care.jpg" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>Skin Care</h4>
-                </div>
-                <div class="col-md-6 col-lg-3 text-center">
-                    <img src="./img/superior colleges.png" alt="" class="rounded-circle" style="height:150px; width:150px;">
-                    <h4>Superior Colleges.png</h4>
-            </div>
-        </div>
-    </section>
-   
+
+
+
+
+
 <?php
- include ('footer.php');
+include('footer.php');
 ?>
