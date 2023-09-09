@@ -171,7 +171,7 @@
 										<a href="packages.php" class="nav-link">Packages</a>
 									</li>
 									<li class="nav-item">
-										<a href="#" class="nav-link">
+										<a href="gallery.php" class="nav-link">
 											Gallery
 											<i class="fas fa-chevron-down"></i>
 										</a>
