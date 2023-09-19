@@ -3,7 +3,16 @@
 
 
 	<head>
-	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZHMEH34WMM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZHMEH34WMM');
+</script>
+
 		<!-- Meta -->
 		
 		<meta charset="utf-8">
@@ -12,9 +21,9 @@
 		
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
-		<meta name="title" content="Subhan studio is best photo and videographer in Faisalabad ">
-    
-		<meta name="description" content="Subhan studio best photo and videographer  in Faisalabad  in limited packages photo and is videography website .subhan  studio is best studio to capture your  future memories. ">
+		<meta name="title" content="Subhan studio is best photographer in Faisalabad ">
+
+		<meta name="description" content="Subhan studio best photographer  in Faisalabad  in limited packages photo and is videography website .subhan  studio is best studio to capture your  future memories. ">
     
 		<meta name="keywords" content="photography, videography, bride,best photographer in faisalabad,faisalabad best photographer, groom, modalshoot, weddingphotoshoot,pre wedding photography,wedding photography packages,wedding photography prices,wedding photography near me,wedding photography shot list,wedding photography and videography,wedding photography and videography packages,wedding photography ad,wedding photography album,asian wedding photography,art wedding photography,wedding photography books">
     
@@ -28,9 +37,9 @@
     
  
 
-		<meta name="title" content="Subhan studio best photo and videographer in Faisalabad " />
+		<meta name="title" content="Subhan studio best photographer in Faisalabad " />
 
-		<meta name="description" content="Subhan Studio is  best photo and videographer in Faisalabad and group of highly experienced and professional photographers of Faisalabad. subhan  studio is best studio to capture your memories"/>
+		<meta name="description" content="Subhan Studio is  best photographer in Faisalabad and group of highly experienced and professional photographers of Faisalabad."/>
 
 
 		<!-- Open Graph / Facebook -->
@@ -41,7 +50,7 @@
 
 		<meta property="og:title" content="Best photo and videography in Your Town " />
 
-		<meta property="og:description" content="Subhan Studio is  best photo and videographer in Faisalabad and group of highly experienced and professional photographers of Faisalabad. subhan  studio is best studio to capture your memories"/>
+		<meta property="og:description" content="Subhan Studio is  best photographer in Faisalabad and group of highly experienced and professional photographers of Faisalabad."/>
 
 		<meta property="og:image" content="img/logo.png" />
 
@@ -53,9 +62,9 @@
 
 		<meta property="twitter:url" content="https://subhanstudio.com" />
 
-		<meta property="twitter:title" content="Best photo and videography in Your Town " />
+		<meta property="twitter:title" content="Best photographer in Your Town " />
 
-		<meta property="twitter:description" content="Subhan Studio is  best photo and videographer in Faisalabad and group of highly experienced and professional photographers of Faisalabad. subhan  studio is best studio to capture your memories. " />
+		<meta property="twitter:description" content="Subhan Studio is  best photographer in Faisalabad and group of highly experienced and professional photographers of Faisalabad. " />
 
 		<meta property="twitter:image" content="img/logo.png" />
 		
@@ -117,19 +126,18 @@
 							<div class="col-lg-9 col-md-8">
 								<div class="atf-top-header-in">
 									<ul class="atf-top-header-list">
-										<li><i class="fas fa-envelope"></i> <a href="#">subhanstudio@gmail.com</a></li>
-										<li><i class="fas fa-phone-volume"></i><a href="#">+92 347 200 8888 </a></li>
-										<li><i class="fas fa-map-marker-alt"></i><a href="#">Faisalabad, Pakkistan.</a></li>
+										<li><i class="fas fa-envelope"></i> <a href="#">subhansstudio@gmail.com</a></li>
+										<li><i class="fas fa-phone-volume"></i><a href="#">+92 302 750 9932 </a></li>
+										<li><i class="fas fa-map-marker-alt"></i><a href="#">Faisalabad, Pakkistan .</a></li>  
 									</ul>
 								</div>
 							</div>
 							<div class="col-lg-3 col-md-4">
 								<div class="atf-top-social">
 									<div class="atf-top-social-icon">
-										<a href="#" class="icon"> <i class="fab fa-dribbble"></i> </a>
-										<a href="#" class="icon"> <i class="fab fa-behance"></i> </a>
-										<a href="#" class="icon"> <i class="fab fa-linkedin"></i> </a>
-										<a href="#" class="icon"> <i class="fab fa-twitter"></i> </a>
+										<a href="https://www.facebook.com/subhansstudio/" target="_blank" class="icon"> <i class="fab fa-facebook"></i> </a>
+										<a href="https://www.instagram.com/subhan_studio888/" target="_blank" class="icon"> <i class="fab fa-instagram"></i> </a>
+										<a href="https://www.youtube.com/channel/UC9ECxGub-REPu4JgBqDdajA" target="_blank" class="icon"> <i class="fab fa-youtube"></i> </a>
 									</div>
 								</div>
 							</div>
@@ -141,7 +149,7 @@
 						<div class="atf-main-responsive-menu">
 							<div class="logo">
 								<a href="index.php">
-									<img src="img/logo.png" class="logo" alt="logo">
+									<img src="img/logo.png" class="logo" alt="Subhan Studio">
 								</a>
 							</div>
 						</div>
@@ -151,7 +159,7 @@
 					<div class="container">
 						<nav class="navbar navbar-expand-md navbar-light">
 							<a class="navbar-brand" href="index.php">
-								<img src="img/logo.png" class="logo" alt="logo">
+								<img src="img/logo.png" class="logo" alt="Subhan Studio">
 							</a>
 							<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 								<ul class="navbar-nav nav justify-content-center ms-auto">
@@ -177,13 +185,13 @@
 										</a>
 										<ul class="dropdown-menu">
 											<li class="nav-item">
-												<a href="#" class="nav-link">Corporate</a>
+												<a href="corporate.php" class="nav-link">Corporate</a>
 											</li>
 											<li class="nav-item">
-												<a href="#" class="nav-link">Wedding Shoot</a>
+												<a href="wedding.php" class="nav-link">Wedding Shoot</a>
 											</li>
 											<li class="nav-item">
-												<a href="#" class="nav-link">Model Shoot</a>
+												<a href="model.php" class="nav-link">Model Shoot</a>
 											</li>
 										</ul>
 									</li>

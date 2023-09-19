@@ -63,6 +63,19 @@
 						<div class="col-lg-3 col-md-6 col-12">
 							<div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
 								<div class="atf-team-pic">
+									<img src="img/team/Junaid 12.jpg" alt="">
+								</div>
+								<div class="atf-team-content">
+									<h3 class="atf-team-title"><a href="#">Junaid JD </a></h3>
+									<span class="atf-team-post">Assistant Operations Manager</span>
+								</div>
+								
+								</div>
+								</div><!--- END COL -->
+						       	
+						<div class="col-lg-3 col-md-6 col-12">
+							<div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
+								<div class="atf-team-pic">
 									<img src="img/team/Shahbaz-Ali.jpg" alt="">
 								</div>
 								<div class="atf-team-content">
@@ -72,7 +85,6 @@
 								
 							</div>
 						</div><!--- END COL -->
-					</div><!--- END ROW -->	
 					
 					<div class="row clearfix" style="padding-top: 80px;">
 						<div class="col-lg-3 col-md-6 col-12">
@@ -124,9 +136,14 @@
 									<h3 class="atf-team-title"><a href="#">M Haroon</a></h3>
 									<span class="atf-team-post">Drone Operator</span>
 								</div>
+								</div><!--- END COL -->
+								
+									
+								
 								
 							</div>
 						</div><!--- END COL -->
+						
 					</div>
 				</div><!--- END CONTAINER -->
 			</section>

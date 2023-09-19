@@ -32,7 +32,7 @@ include('header.php');
 									<div class="row justify-content-center">
 										<div class="col-lg-8 text-center">
 											<div class="atf-slider-content">
-												<h1>Event Photographer</h1>
+												<h2 style="color: #F7F7F7;">Subhan Studio Event Photographer</h2>
 												<p>Subhan Photo Studio is a photography studio known for its expertise in capturing memorable moments and creating striking images, offering a range of photography services for various occasions and subjects.</p>
 												<div class="atf-main-btn mt-5">
 													<a class="atf-themes-btn" href="about.php" data-hover="Read More">
@@ -137,7 +137,7 @@ include('header.php');
 									
 									<div class="atf-best-service-content text-center">
 										<h3 class="atf-best-service-title">
-											<a href="#">Event Make Up</a>
+											<a href="#">Event Make Up </a>
 										</h3>
 										
 										<p class="atf-best-service-description">We have professional Beautition who deal Bridal MakeUp, Party MakeUp, Hair dye.</p>
@@ -239,7 +239,7 @@ include('header.php');
 							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 								<h5 class="atf-sheading"> Testimonial</h5>
 								<h2 class="text-white">Client Feedback</h2>
-								<p class="text-white">Lorem ipsum dolor sit amet elit , consectetur adipiscing , sed eiusmod tempor sit amet elit dolor sit amet elit.</p>
+								<p class="text-white">Subhan Studio.</p>
 							</div>
 						</div><!--- END COL -->
 					</div><!--- END ROW -->
@@ -251,47 +251,59 @@ include('header.php');
 							<div id="testimonial-slider" class="atf-testimonials-slide atf-main-testimonials atf-testimonial-slider owl-carousel owl-theme">
 								<div class="testimonial">
 									<div class="pic">
-										<img src="img/portfolio/1.jpg" alt="Portfolio Image">
+										<img src="img/portfolio/Yousaf sb.jpg" alt="Portfolio Image">
 									</div>
-									<h3 class="testimonial-title">Abdul Mubdi</h3>
-									<small class="post">Web Designer</small>
+									<h3 class="testimonial-title">Ch Muhammad Yousaf</h3>
+									<small class="post">RD Superior Group</small>
 									<p class="description">
-										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ornare eros. Proin nec pulvinar augue, at.
+										Amazing production Cooperative camera men's I love his work Nice work professional good quality, at.
 									</p>
 								</div>
 								
 								<div class="testimonial">
 									<div class="pic">
-										<img src="img/portfolio/2.jpg" alt="Portfolio Image">
+										<img src="img/portfolio/Haseeb-Khan.webp" alt="Portfolio Image">
 									</div>
-									<h3 class="testimonial-title">Abdul Mushi</h3>
-									<small class="post">Web Developer</small>
+									<h3 class="testimonial-title">Haseeb Khan</h3>
+									<small class="post">Director Communication at The Superior Group</small>
 									<p class="description">
-										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ornare eros. Proin nec pulvinar augue, at.
+										I Had a fantastic experience with the studio regarding professionalism as well as ethical dealing.
 									</p>
 								</div>
 								
 								<div class="testimonial">
 									<div class="pic">
-										<img src="img/portfolio/3.jpg" alt="Portfolio Image">
+										<img src="img/portfolio/Hamza.jpg" alt="Portfolio Image">
 									</div>
-									<h3 class="testimonial-title">Abdul Hasib</h3>
-									<small class="post">Web Developer</small>
+									<h3 class="testimonial-title">Hamza Afzal</h3>
+									<small class="post">Client</small>
 									<p class="description">
-										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ornare eros. Proin nec pulvinar augue, at.
+										Subhan studio staff is an excellent professional. All staff was kind and made me feel very comfortable. I’m also very satisfied with the final work.
 									</p>
 								</div>
 								
 								<div class="testimonial">
 									<div class="pic">
-										<img src="img/portfolio/1.jpg" alt="Portfolio Image">
+										<img src="img/portfolio/Arshad.png" alt="Portfolio Image">
 									</div>
-									<h3 class="testimonial-title">Abdul Wahid</h3>
-									<small class="post">Web Developer</small>
+									<h3 class="testimonial-title">Arshad Malik </h3>
+									<small class="post">Manager Skin Care company</small>
 									<p class="description">
-										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ornare eros. Proin nec pulvinar augue, at.
+										Subhan studio have a good work with good team .No compromise in work quality . good experience work with.
 									</p>
 								</div>
+
+                                    <div class="testimonial">
+									<div class="pic">
+										<img src="img/portfolio/Sarmad.png" alt="Portfolio Image">
+									</div>
+									<h3 class="testimonial-title">Sarmad Ameer </h3>
+									<small class="post">Client</small>
+									<p class="description">
+										Subhan studio All staff was kind and made me feel very comfortable.very satisfied with the final work.
+									</p>
+								</div>
+								
 							</div>
 						</div><!--- END COL -->
 					</div><!--- END ROW -->
@@ -409,66 +421,7 @@ include('header.php');
 					</div>
 				</div>
 			</section>
-			
-			<!-- START  PROCESS SECTION-->
-			<section id="processing" class="atf-processing-area atf-section-padding">
-				<div class="container">
-					<div class="row justify-content-center">
-						<div class="col-lg-6 col-md-7 col-12">
-							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-								<h5 class="atf-sheading">Process</h5>
-								<h2 class="">Our Processing</h2>
-								
-							</div>
-						</div><!--- END COL -->
-					</div><!--- END ROW -->
-					
-					<div class="row">
-						<div class="col-lg-3 col-md-6">
-							<div class="process">
-								<div class="process-icon">
-									<span><i class="fa fa-globe"></i></span>
-								</div>
-								<h3 class="title">Editing <span>Process</span></h3>
-								
-							</div>
-						</div>
-						
-						<div class="col-lg-3 col-md-6">
-							<div class="process">
-								<div class="process-icon">
-									<span><i class="fa fa-rocket"></i></span>
-								</div>
-								<h3 class="title">Video <span>Graphic</span></h3>
-								
-							</div>
-						</div>
-						
-						<div class="col-lg-3 col-md-6">
-							<div class="process">
-								<div class="process-icon">
-									<span><i class="fa fa-rocket"></i></span>
-								</div>
-								<h3 class="title">Final <span>Shoting</span></h3>
-								
-							</div>
-						</div>
-						
-						<div class="col-lg-3 col-md-6">
-							<div class="process">
-								<div class="process-icon">
-									<span><i class="fa fa-rocket"></i></span>
-								</div>
-								<h3 class="title">Photo <span>Graphy</span></h3>
-								
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!-- END  PROCESS SECTION-->
 
-	
 			
 		<?php
 			include('footer.php');

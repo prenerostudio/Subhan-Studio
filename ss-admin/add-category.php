@@ -29,11 +29,9 @@ if (isset($_POST['add-ctg'])) {
 	
 	}
 	
-	
 
 }
 ?>
-
 
 
 <div id="page-wrapper" >

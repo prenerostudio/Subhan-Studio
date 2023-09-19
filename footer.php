@@ -7,11 +7,11 @@
 								<div class="atf-footer-box">
 									<h5>About Subhan Studio</h5>
 									<p class="mt-3 pe-3" align="justify">
-Subhan Photo Studio is a photography studio known for its expertise in capturing memorable moments and creating striking images, offering a range of photography services for various occasions and subjects.</p>
+Subhan Photo Studio is a best photography in faisalabad  studio known for its expertise in capturing memorable moments and creating striking images, offering a range of photography services for various occasions and subjects.</p>
 									<div class="atf-footer-social-icon mt-3">
-										<a href="#" class="icon"> <i class="fab fa-facebook"></i> </a>
-										<a href="#" class="icon"> <i class="fab fa-dribbble"></i> </a>
-										<a href="#" class="icon"> <i class="fab fa-twitter"></i> </a>
+										<a href="https://www.facebook.com/subhansstudio/" class="icon"> <i class="fab fa-facebook"></i> </a>
+										<a href="https://www.instagram.com/subhan_studio888/" class="icon"> <i class="fab fa-instagram"></i> </a>
+										<a href="https://www.youtube.com/channel/UC9ECxGub-REPu4JgBqDdajA" class="icon"> <i class="fab fa-youtube"></i> </a>
 									</div>
 								</div>
 							</div><!--- END COL -->
@@ -40,9 +40,10 @@ Subhan Photo Studio is a photography studio known for its expertise in capturing
 							
 							<div class="col-lg-5 col-md-6 col-12 atf-footer-link">
 								<h5>Our Map </h5>
+							
 								<!-- Google Map start-->
 								 <div id="atf-map-area">
-									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3125.1516153355674!2d-105.24276688517374!3d38.43796677964402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87148f9a4466afe5%3A0x24b66e04146cc9e2!2sCanon%20City%20Santa%20Fe%20Depot!5e0!3m2!1sen!2sbd!4v1622049345355!5m2!1sen!2sbd" style="border:0; height: 200px;" allowfullscreen="" loading="lazy"></iframe>
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.052014932414!2d73.1127484755171!3d31.41269295245429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39226926a8d44b6b%3A0x1e430d237351ccfe!2sSubhan%20Studio!5e0!3m2!1sen!2s!4v1694699151316!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 								</div>
 								<!-- Google Map end -->
 							</div><!--- END COL -->

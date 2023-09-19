@@ -4,7 +4,7 @@ include('config.php');
 ?>
 
 <!-- Start-page-heading -->
-			<div class="atf-page-heading atf-size-md atf-dynamic-bg" style="background-image: url(assets/img/blog/5.jpg); background-size:cover; background-position: center center;">
+			<div class="atf-page-heading atf-size-md atf-dynamic-bg" style="background-image: url(img/blog/5.jpg); background-size:cover; background-position: center center;">
 				<div class="container">
 					<div class="atf-page-heading-in text-center">
 						<h1 class="atf-page-heading-title">My Portfolio</h1>
@@ -25,7 +25,7 @@ include('config.php');
 							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 								<h5 class="atf-sheading">Gallery</h5>
 								<h2 class="">Our Recent Porfolio</h2>
-								<p>Lorem ipsum dolor sit amet elit , consectetur adipiscing , sed eiusmod tempor sit amet elit dolor sit amet elit.</p>
+								
 							</div>
 						</div><!--- END COL -->
 					</div><!--- END ROW -->
