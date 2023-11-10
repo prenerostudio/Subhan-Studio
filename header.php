@@ -21,11 +21,11 @@
 		
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
-		<meta name="title" content="Subhan studio is best photographer in Faisalabad ">
+		<meta name="title" content=" Best photographer in Faisalabad ">
 
-		<meta name="description" content="Subhan studio best photographer  in Faisalabad  in limited packages photo and is videography website .subhan  studio is best studio to capture your  future memories. ">
+		<meta name="description" content="Best photographer  in Faisalabad  in limited packages photo and is videography website .subhan  studio is best studio to capture your  future memories. ">
     
-		<meta name="keywords" content="photography, videography, bride,best photographer in faisalabad,faisalabad best photographer, groom, modalshoot, weddingphotoshoot,pre wedding photography,wedding photography packages,wedding photography prices,wedding photography near me,wedding photography shot list,wedding photography and videography,wedding photography and videography packages,wedding photography ad,wedding photography album,asian wedding photography,art wedding photography,wedding photography books">
+		<meta name="keywords" content="Subhan Studio Best Photographer in Faisalabad">
     
 		<meta name="robots" content="index, follow">
     
@@ -34,12 +34,13 @@
 		<meta name="language" content="English">
    
 		<meta name="author" content="Yasir Mirza">
+		<link href= " https://www.subhanstudio.com/ " rel="canonical"/>
     
  
 
-		<meta name="title" content="Subhan studio best photographer in Faisalabad " />
+		<meta name="title" content="Subhan Studio: Best Photographer in Faisalabad for Stunning Moments " />
 
-		<meta name="description" content="Subhan Studio is  best photographer in Faisalabad and group of highly experienced and professional photographers of Faisalabad."/>
+		<meta name="description" content="Discover the art of photography with Subhan Studio the best photographer in Faisalabad, your go-to choice for capturing memorable moments. Book now for photography."/>
 
 
 		<!-- Open Graph / Facebook -->
@@ -50,7 +51,7 @@
 
 		<meta property="og:title" content="Best photo and videography in Your Town " />
 
-		<meta property="og:description" content="Subhan Studio is  best photographer in Faisalabad and group of highly experienced and professional photographers of Faisalabad."/>
+		<meta property="og:description" content="Discover the art of photography with Subhan Studio the best photographer in Faisalabad, your go-to choice for capturing memorable moments. Book now for photography."/>
 
 		<meta property="og:image" content="img/logo.png" />
 
@@ -69,7 +70,7 @@
 		<meta property="twitter:image" content="img/logo.png" />
 		
 		<!-- SITE TITLE --> 
-		<title>Subhan Studio | Event Photographer</title>
+		<title>Subhan Studio</title>
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/icon.png">
 		
@@ -149,7 +150,7 @@
 						<div class="atf-main-responsive-menu">
 							<div class="logo">
 								<a href="index.php">
-									<img src="img/logo.png" class="logo" alt="Subhan Studio">
+									<img src="img/logo.png" class="logo" alt="logo">
 								</a>
 							</div>
 						</div>
@@ -159,7 +160,7 @@
 					<div class="container">
 						<nav class="navbar navbar-expand-md navbar-light">
 							<a class="navbar-brand" href="index.php">
-								<img src="img/logo.png" class="logo" alt="Subhan Studio">
+								<img src="img/logo.png" class="logo" alt="logo">
 							</a>
 							<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 								<ul class="navbar-nav nav justify-content-center ms-auto">

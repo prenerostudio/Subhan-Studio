@@ -78,7 +78,21 @@ include('header.php');
 									<div class="atf-best-service-content text-center">
 										<h3 class="atf-best-service-title"><a href="#">DJ Sound</a></h3>
 										<p class="atf-best-service-description">We deal all king of DJ Sound with base Kit and SMD (Surface Mount Device).</p>
+								
+								</div>
+								        	<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										<a href="img/services/service-dj.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/tour.jpeg" alt="Blog"></a> 
 									</div>
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title"><a href="#">Homeymoon Tour</a></h3>
+										<p class="atf-best-service-description"> come with Group & Customized Tours Packages For You. 
+Select your destination. We will Make Your Desired Plans Wherever you want to go.
+Departure Every Thursday & Friday(Surface Mount Device).</p>
+									</div>
+								
+								
 								</div>
 							</div>
 						</div>

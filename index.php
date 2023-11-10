@@ -12,7 +12,7 @@ include('header.php');
 									<div class="row justify-content-center">
 										<div class="col-lg-8 text-center">
 											<div class="atf-slider-content">
-												<h1>Event Photographer</h1>
+												<h1> Best Photographer in Faisalabad</h1>
 												<p>Subhan Photo Studio is a photography studio known for its expertise in capturing memorable moments and creating striking images, offering a range of photography services for various occasions and subjects.</p>
 												<div class="atf-main-btn mt-5">
 													<a class="atf-themes-btn" href="about.php" data-hover="Read More">
@@ -66,7 +66,7 @@ include('header.php');
 					<div class="row justify-content-center">
 						<div class="col-lg-12 col-md-12 col-12">
 							<div class="atf-section-title text-center wow zoomIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-								<h5 class="atf-sheading">Best Photo and Videographer in Faisalabad.</h5>
+								<h5 class="atf-sheading">Best Photogeapher in Faisalabad.</h5>
 								<h2 class="">Welcome to our <strong>Subhan Studio</strong> </h2>
 								<p class="">Subhan Studio is a group of highly experienced and professional photographers of Faisalabad. We believe wedding photography is all about sensing and capturing precious moment of the event for future view of the bride and groom as they are busy in their own rituals. On wedding events bride and groom are totally busy in their own rituals that they are not able to witness all the laughers, emotions and moments of joys from their own eyes. So our wedding photography should be exactly like as if the bride and groom are at their wedding function.</p>
 							</div>
@@ -176,6 +176,17 @@ include('header.php');
 										<p class="atf-best-service-description">We deal all king of DJ Sound with base Kit and SMD (Surface Mount Device).</p>
 									</div>
 								</div>
+								<div class="atf-best-service-slide">
+									<div class="atf-best-service-img">
+										<a href="img/services/service-dj.jpg" data-rel="lightcase:myCollection">
+											<img src="img/services/tour.jpeg" alt="Blog"></a> 
+									</div>
+									<div class="atf-best-service-content text-center">
+										<h3 class="atf-best-service-title"><a href="#">Homeymoon Tour</a></h3>
+										<p class="atf-best-service-description"> come with Group & Customized Tours Packages For You. 
+Select your destination. We will Make Your Desired Plans Wherever you want to go.
+Departure Every Thursday & Friday(Surface Mount Device).</p>
+									</div>
 							</div>
 						</div>
 					</div><!--- END ROW -->

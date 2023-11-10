@@ -7,7 +7,7 @@ include('config.php');
 			<div class="atf-page-heading atf-size-md atf-dynamic-bg" style="background-image: url(img/blog/5.jpg); background-size:cover; background-position: center center;">
 				<div class="container">
 					<div class="atf-page-heading-in text-center">
-						<h1 class="atf-page-heading-title">My Portfolio</h1>
+						<h1 class=" best photographer in faisalabad">My Portfolio</h1>
 						<div class="atf-post-label">
 							<span><a href="index.php">Home</a></span>
 							<span>Gallery</span>
@@ -50,7 +50,7 @@ include('config.php');
 						<div class="col-lg-4 col-md-6 col-12 grid-item filter1">
 							<div class="atf-single-portfolio">
 								<div class="portfolio-img">
-									<a href="ss-admin/uploads/corporate/<?php echo $cdata['img_name'];?>" data-rel="lightcase:myCollection"><img src="ss-admin/uploads/corporate/<?php echo $cdata['img_name'];?>" alt="Portfolio Image"></a> 
+									<a href="ss-admin/uploads/corporate/<?php echo $cdata['img_name'];?>" data-rel=""><img src="ss-admin/uploads/corporate/<?php echo $cdata['img_name'];?>" alt="Portfolio Image"></a> 
 								</div>
 								
 							</div>
@@ -69,7 +69,7 @@ include('config.php');
 						<div class="col-lg-4 col-md-6 col-12 grid-item filter2">
 							<div class="atf-single-portfolio">
 								<div class="portfolio-img">
-									<a href="ss-admin/uploads/wedding/<?php echo $data['wedding_img'];?>" data-rel="lightcase:myCollection"><img src="ss-admin/uploads/wedding/<?php echo $data['wedding_img'];?>" alt="Portfolio Image"></a> 
+									<a href="ss-admin/uploads/wedding/<?php echo $data['wedding_img'];?>" data-rel=""><img src="ss-admin/uploads/wedding/<?php echo $data['wedding_img'];?>" alt="Portfolio Image"></a> 
 								</div>
 								
 							</div>
@@ -88,17 +88,9 @@ include('config.php');
 						<div class="col-lg-4 col-md-6 col-12 grid-item filter3">
 							<div class="atf-single-portfolio">
 								<div class="portfolio-img">
-									<a href="ss-admin/uploads/modal/<?php echo $mdata['img_name'];?>" data-rel="lightcase:myCollection"><img src="ss-admin/uploads/modal/<?php echo $mdata['img_name'];?>" alt="Portfolio Image"></a> 
+									<a href="ss-admin/uploads/modal/<?php echo $mdata['img_name'];?>" data-rel=""><img src="ss-admin/uploads/modal/<?php echo $mdata['img_name'];?>" alt="Portfolio Image"></a> 
 								</div>
-								<!--<div class="portfolio-content">
-									<h2 class="title">Videography</h2>
-									<p class="description">
-										Lorem ipsum dolor consectetur adipisicing elit. Ipsa, tempor ibus sit amet, consectetur adipisicing elit. Ipsa, temporibus?
-									</p>
-									<div class="portfolio-btn">
-										<a class="read-more" href="portfolio-details.html">Read More</a>
-									</div>
-								</div>-->
+								
 							</div>
 						</div>
 						
