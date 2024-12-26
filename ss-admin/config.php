@@ -12,9 +12,9 @@ if ($_SERVER['SERVER_NAME'] == 'localhost') {
 	$dbname = "subhan_studio";
 } else { 
 	$localhost = "localhost";
-	$username = "subhanst_subhan";
-	$password = "Prenero1102/*";
-	$dbname = "subhanst_studio";
+	$username = "prenqqnb_yasir";
+	$password = "PreneroStudio1102/*";
+	$dbname = "prenqqnb_subhanstudio";
 }
 
 // db connection

@@ -3,15 +3,7 @@
 
 
 	<head>
-	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZHMEH34WMM"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-ZHMEH34WMM');
-</script>
 
 		<!-- Meta -->
 		
@@ -193,6 +185,12 @@
 											</li>
 											<li class="nav-item">
 												<a href="model.php" class="nav-link">Model Shoot</a>
+											</li>
+											<li class="nav-item">
+												<a href="baby-shoot.php" class="nav-link">Baby Shoot</a>
+											</li>
+											<li class="nav-item">
+												<a href="product-shoot.php" class="nav-link">Product Shoot</a>
 											</li>
 										</ul>
 									</li>

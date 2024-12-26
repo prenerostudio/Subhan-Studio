@@ -12,7 +12,7 @@ include('header.php');
 									<div class="row justify-content-center">
 										<div class="col-lg-8 text-center">
 											<div class="atf-slider-content">
-												<h1> Best Photographer in Faisalabad</h1>
+												<h1> Subhan Studio</h1>
 												<p>Subhan Photo Studio is a photography studio known for its expertise in capturing memorable moments and creating striking images, offering a range of photography services for various occasions and subjects.</p>
 												<div class="atf-main-btn mt-5">
 													<a class="atf-themes-btn" href="about.php" data-hover="Read More">
@@ -32,7 +32,7 @@ include('header.php');
 									<div class="row justify-content-center">
 										<div class="col-lg-8 text-center">
 											<div class="atf-slider-content">
-												<h2 style="color: #F7F7F7;">Subhan Studio Event Photographer</h2>
+												<h2 style="color: #F7F7F7;">Subhan Studio</h2>
 												<p>Subhan Photo Studio is a photography studio known for its expertise in capturing memorable moments and creating striking images, offering a range of photography services for various occasions and subjects.</p>
 												<div class="atf-main-btn mt-5">
 													<a class="atf-themes-btn" href="about.php" data-hover="Read More">
@@ -127,22 +127,7 @@ include('header.php');
 					<div class="row">			
 						<div class="col-md-12">
 							<div id="atf-home-active" class="atf-main-testimonials atf-testimonial-slider owl-carousel owl-theme">
-								<div class="atf-best-service-slide">
-									<div class="atf-best-service-img">
-										
-										<a href="img/services/service-makeup.jpg" data-rel="lightcase:myCollection">
-											<img src="img/services/service-makeup.jpg" alt="Blog">
-										</a> 
-									</div>
-									
-									<div class="atf-best-service-content text-center">
-										<h3 class="atf-best-service-title">
-											<a href="#">Event Make Up </a>
-										</h3>
-										
-										<p class="atf-best-service-description">We have professional Beautition who deal Bridal MakeUp, Party MakeUp, Hair dye.</p>
-									</div>
-								</div>
+								
 								
 								<div class="atf-best-service-slide">
 									<div class="atf-best-service-img">
@@ -161,7 +146,7 @@ include('header.php');
 											<img src="img/services/stage.jpg" alt="Blog"></a> 
 									</div>
 									<div class="atf-best-service-content text-center">
-										<h3 class="atf-best-service-title"><a href="#">Decor Floor</a></h3>
+										<h3 class="atf-best-service-title"><a href="#">Wedding Photography</a></h3>
 										<p class="atf-best-service-description">We have Decorated stage lighten floor digital lights and flower Decoration</p>
 									</div>
 								</div>
@@ -172,22 +157,11 @@ include('header.php');
 											<img src="img/services/service-dj.jpg" alt="Blog"></a> 
 									</div>
 									<div class="atf-best-service-content text-center">
-										<h3 class="atf-best-service-title"><a href="#">DJ Sound</a></h3>
+										<h3 class="atf-best-service-title"><a href="#">Videography</a></h3>
 										<p class="atf-best-service-description">We deal all king of DJ Sound with base Kit and SMD (Surface Mount Device).</p>
 									</div>
 								</div>
-								<div class="atf-best-service-slide">
-									<div class="atf-best-service-img">
-										<a href="img/services/service-dj.jpg" data-rel="lightcase:myCollection">
-											<img src="img/services/tour.jpeg" alt="Blog"></a> 
-									</div>
-									<div class="atf-best-service-content text-center">
-										<h3 class="atf-best-service-title"><a href="#">Homeymoon Tour</a></h3>
-										<p class="atf-best-service-description"> come with Group & Customized Tours Packages For You. 
-Select your destination. We will Make Your Desired Plans Wherever you want to go.
-Departure Every Thursday & Friday(Surface Mount Device).</p>
-									</div>
-							</div>
+								
 						</div>
 					</div><!--- END ROW -->
 				</div><!--- END CONTAINER -->
@@ -207,17 +181,17 @@ Departure Every Thursday & Friday(Surface Mount Device).</p>
 									<a href="#"><img src="img/partner/spirit-school-logo.png" alt="image"></a>
 									<a href="#"><img src="img/partner/superior colleges.png" alt="image"></a>
 									<a href="#"><img src="img/partner/Superior.png" alt="image"></a>
-									<!--<a href="#"><img src="img/partner/2.png" alt="image"></a>
-									<a href="#"><img src="img/partner/3.png" alt="image"></a>
-									<a href="#"><img src="img/partner/4.png" alt="image"></a>
+									<a href="#"><img src="img/partner/misaq-residencia.png" alt="image"></a>
+									<a href="#"><img src="img/partner/tms.png" alt="image"></a>
+									<!--<a href="#"><img src="img/partner/4.png" alt="image"></a>
 									<a href="#"><img src="img/partner/5.png" alt="image"></a>-->
 								</div>
-							</div><!-- END COL  -->
-						</div><!--END  ROW  -->
-					</div><!-- END CONTAINER  -->
-				</div><!-- END OVERLAY -->
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
-			<!-- END COMPANY BRAND LOGO -->	
+			
 			
 			
 			<!-- START HIRE -->
@@ -329,9 +303,9 @@ Departure Every Thursday & Friday(Surface Mount Device).</p>
 							<div class="pricingTable">
 								<div class="pricingTable-header">
 									<div class="price-value">
-										<span class="amount">55,000</span>
+										<span class="amount">25,000</span>
 										<span class="currency">PKR</span>
-										<!--<span class="duration">per-month</span>-->
+										<span class="duration">per-day</span>
 									</div>
 								</div>
 								<h2 class="title">Basic</h2>
@@ -361,9 +335,9 @@ Departure Every Thursday & Friday(Surface Mount Device).</p>
 							<div class="pricingTable">
 								<div class="pricingTable-header">
 									<div class="price-value">
-										<span class="amount">75,000</span>
+										<span class="amount">40,000</span>
 										<span class="currency">PKR</span>
-										<!--<span class="duration">per-month</span>-->
+										<span class="duration">per-day</span>
 									</div>
 								</div>
 								<h2 class="title">Standard</h2>
@@ -391,24 +365,13 @@ Departure Every Thursday & Friday(Surface Mount Device).</p>
 							<div class="pricingTable">
 								<div class="pricingTable-header">
 									<div class="price-value">
-										<span class="amount">170,000</span>
+										<span class="amount">60,000</span>
 										<span class="currency">PKR</span>
-										<!--<span class="duration">per-month</span>-->
+										<span class="duration">per-day</span>
 									</div>
 								</div>
 								<h2 class="title">Premium</h2>
 								<ul class="pricing-content">
-									
-
-
-
-
-
-
-
-
-
-
 									<li>3 Senior Wedding photographer</li>
 									<li>Bride & Groom Photoshoot</li>
 									<li>10 Page 4 krizma album</li>

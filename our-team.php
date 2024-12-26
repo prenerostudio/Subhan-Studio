@@ -20,19 +20,7 @@
 			<section id="team" class="atf-team-area atf-section-padding">
 				<div class="container">						
 					<div class="row clearfix">
-						<div class="col-lg-3 col-md-6 col-12">
-							<div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-								<div class="atf-team-pic">
-									<img src="img/team/mirza-zia.jpeg" alt="">
-								</div>
-								<div class="atf-team-content">
-									<h3 class="atf-team-title"><a href="#">Mirza Zia Hussain</a></h3>
-									<span class="atf-team-post">Chief Excutive Officer</span>
-								</div>
-								
-							</div>
-			
-						</div><!--- END COL -->
+						
 						
 						<div class="col-lg-3 col-md-6 col-12">
 							<div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
@@ -41,7 +29,7 @@
 								</div>
 								<div class="atf-team-content">
 									<h3 class="atf-team-title"><a href="#">Mirza Yasir</a></h3>
-									<span class="atf-team-post">Chief Operating Office</span>
+									<span class="atf-team-post">Chief Executive Office</span>
 								</div>
 								
 							</div>
@@ -54,7 +42,7 @@
 								</div>
 								<div class="atf-team-content">
 									<h3 class="atf-team-title"><a href="#">Khurram Ejaz</a></h3>
-									<span class="atf-team-post">Operation Manager</span>
+									<span class="atf-team-post">Photogrpher</span>
 								</div>
 								
 							</div>
@@ -67,40 +55,28 @@
 								</div>
 								<div class="atf-team-content">
 									<h3 class="atf-team-title"><a href="#">Junaid JD </a></h3>
-									<span class="atf-team-post">Assistant Operations Manager</span>
+									<span class="atf-team-post">Video Grapher</span>
 								</div>
 								
 								</div>
 								</div><!--- END COL -->
 						       	
-						<div class="col-lg-3 col-md-6 col-12">
-							<div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
+					</div>
+					
+					
+						<div class="row clearfix mt-5">
+							<div class="col-lg-3 col-md-6 col-12">
+							<div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 								<div class="atf-team-pic">
-									<img src="img/team/Shahbaz-Ali.jpg" alt="">
+									<img src="img/team/asad-ali.jpg" alt="">
 								</div>
 								<div class="atf-team-content">
-									<h3 class="atf-team-title"><a href="#">Shahbaz Ali</a></h3>
+									<h3 class="atf-team-title"><a href="#">Raheel Ahmad</a></h3>
 									<span class="atf-team-post">Photographer</span>
 								</div>
 								
 							</div>
-						</div><!--- END COL -->
-					
-					<div class="row clearfix" style="padding-top: 80px;">
-						<div class="col-lg-3 col-md-6 col-12">
-							<div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-								<div class="atf-team-pic">
-									<img src="img/team/imran-ali.jpeg" alt="">
-								</div>
-								<div class="atf-team-content">
-									<h3 class="atf-team-title"><a href="#">Imran Ali</a></h3>
-									<span class="atf-team-post">Videographer</span>
-								</div>
-								
-							</div>
-			
-						</div><!--- END COL -->
-						
+						</div>
 						<div class="col-lg-3 col-md-6 col-12">
 							<div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 								<div class="atf-team-pic">

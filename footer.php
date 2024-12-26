@@ -22,7 +22,7 @@ Subhan Photo Studio is a best photography in faisalabad  studio known for its ex
 									<li> <a href="services.php"><i class="fas fa-chevron-right me-2"></i>Services</a></li>
 									<li> <a href="packages.php"><i class="fas fa-chevron-right me-2"></i>Packages</a></li>
 									<li> <a href="about.php"><i class="fas fa-chevron-right me-2"></i>About Us</a></li>
-									<li> <a href="#"><i class="fas fa-chevron-right me-2"></i>Gallery</a></li>
+									<li> <a href="gallery.php"><i class="fas fa-chevron-right me-2"></i>Gallery</a></li>
 									<li> <a href="contact.php"><i class="fas fa-chevron-right me-2"></i>Contact Us</a></li>
 								</ul>
 							</div><!--- END COL -->
@@ -55,7 +55,7 @@ Subhan Photo Studio is a best photography in faisalabad  studio known for its ex
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<p>2023 &copy; Copyright - All Right Reserved. Designed <i class="fa fa-heart ms-1 me-1"></i> by <a href="https://www.prenero.com/">Prenero Solutions</a> </p>
+								<p>2023 &copy; Copyright - All Right Reserved. Designed <i class="fa fa-heart ms-1 me-1"></i> by <a href="https://www.prenerostudio.com/">Prenero Studio</a> </p>
 							</div><!--- END COL -->
 						</div><!--- END ROW -->
 					</div><!--- END ROW -->

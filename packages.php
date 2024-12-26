@@ -33,9 +33,9 @@ include('header.php');
 							<div class="pricingTable">
 								<div class="pricingTable-header">
 									<div class="price-value">
-										<span class="amount">55,000</span>
+										<span class="amount">25,000</span>
 										<span class="currency">PKR</span>
-										<!--<span class="duration">per-month</span>-->
+										<span class="duration">per-day</span>
 									</div>
 								</div>
 								<h2 class="title">Basic</h2>
@@ -65,9 +65,9 @@ include('header.php');
 							<div class="pricingTable">
 								<div class="pricingTable-header">
 									<div class="price-value">
-										<span class="amount">75,000</span>
+										<span class="amount">40,000</span>
 										<span class="currency">PKR</span>
-										<!--<span class="duration">per-month</span>-->
+										<span class="duration">per-day</span>
 									</div>
 								</div>
 								<h2 class="title">Standard</h2>
@@ -95,24 +95,13 @@ include('header.php');
 							<div class="pricingTable">
 								<div class="pricingTable-header">
 									<div class="price-value">
-										<span class="amount">170,000</span>
+										<span class="amount">60,000</span>
 										<span class="currency">PKR</span>
-										<!--<span class="duration">per-month</span>-->
+										<span class="duration">per-day</span>
 									</div>
 								</div>
 								<h2 class="title">Premium</h2>
 								<ul class="pricing-content">
-									
-
-
-
-
-
-
-
-
-
-
 									<li>3 Senior Wedding photographer</li>
 									<li>Bride & Groom Photoshoot</li>
 									<li>10 Page 4 krizma album</li>
