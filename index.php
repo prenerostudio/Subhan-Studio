@@ -134,8 +134,8 @@ include('header.php');
                     </div>		                    		
                     <div class="atf-best-service-slide">		
                         <div class="atf-best-service-img">			
-                            <a href="img/services/service-dj.jpg" data-rel="lightcase:myCollection">			
-                                <img src="img/services/service-dj.jpg" alt="Blog">
+                            <a href="img/services/videography.jpg" data-rel="lightcase:myCollection">			
+                                <img src="img/services/videography.jpg" alt="Blog">
 							</a> 				
                         </div>			
                         <div class="atf-best-service-content text-center">			
