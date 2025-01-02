@@ -33,8 +33,8 @@ include('header.php');
                         <div class="atf-contact-details">			
                             <i class="fa fa-home"></i>                            			
                             <h4>Your Location</h4>			
-                            <p>103-C People’s colony # 1 Superior college</p>			
-                            <p>Jaranwala road, Faisalabad, Pakistan 38000.</p>			
+                            <p>Khani Market, Street # 10, Main Bazar, Mansoor </p>			
+                            <p>Abad, Faisalabad, Pakistan 38000.</p>			
                         </div>											
                         <div class="atf-contact-details">			
                             <i class="fa fa-phone"></i>			
@@ -70,26 +70,26 @@ include('header.php');
                 <div class="col-xl-7 col-12 mt-xl-40 d-block align-self-center" data-aos="fade-up">		
                     <div class="contact">		
                         <h4>Send a Message</h4>			
-                        <form id="contact-form" class="atf-contact-form form" method="POST" action="#">			
+                        <form class="atf-contact-form form" method="post" action="contact-process.php">			
                             <div class="row">			
                                 <div class="form-group col-md-6">				
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name"  required="required">				
+                                    <input type="text" name="name" class="form-control" placeholder="Your Name"  required="required">				
                                 </div>				
                                 <div class="form-group col-md-6">				
-                                    <input type="email" name="email" class="form-control" id="form_email" placeholder="Your Email" required="required">				
+                                    <input type="email" name="email" class="form-control" placeholder="Your Email" required="required">				
                                 </div>				
                                 <div class="form-group col-md-6">				
-                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Your Subject" required="required">				
+                                    <input type="text" name="subject" class="form-control" placeholder="Your Subject" required="required">				
                                 </div>				
                                 <div class="form-group col-md-6">				
-                                    <input type="text" name="mobile" class="form-control" id="mobile" placeholder="Your Mobile" required="required">				
+                                    <input type="text" name="phone" class="form-control" placeholder="Your Mobile" required="required">				
                                 </div>				                                				
                                 <div class="form-group col-md-12">				
-                                    <textarea rows="6" name="message" class="form-control" id="message" placeholder="Your Message" required="required"></textarea>				
+                                    <textarea rows="6" name="message" class="form-control" placeholder="Your Message" required="required"></textarea>				
                                 </div>				
                                 <div class="col-md-12">				
                                     <div class="text-left atf-contact-btn">				
-                                        <button type="submit" value="Submit Now" name="submit" id="submitButton" class="btn atf-themes-btn" data-hover="Send Message" title="Submit Your Message!"><span>Send Message</span></button>					
+                                        <button type="submit" value="Submit Now" name="submit" data-hover="Send Message" class="btn atf-themes-btn" title="Submit Your Message!"><span>Send Message</span></button>					
                                     </div>				
                                 </div>				
                             </div>			

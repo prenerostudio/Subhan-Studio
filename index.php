@@ -286,11 +286,12 @@ include('header.php');
                     </div>		
                     <h2 class="title">Basic</h2>		
                     <ul class="pricing-content">		
-                        <li>1 Wedding photographer</li>			
+                        <li>1 Wedding photographer</li>
+						<li>1 Wedding Videographer</li>
                         <li>Bride & Groom Photoshoot</li>			
-                        <li>10 Page krizma album</li>			
+                        <li>10 Page Story Book</li>			
                         <li>Full Event Video</li>			
-                        <li>300 soft copies</li>			
+                        <li>Soft copies</li>			
                         <li class="disable">1 Day Drone Camera</li>			                        			
                         <li class="disable">Cinematic Video Highlight</li>			
                         <li class="disable">Family Interview</li>			
@@ -316,11 +317,12 @@ include('header.php');
                     </div>		
                     <h2 class="title">Standard</h2>		
                     <ul class="pricing-content">		
-                        <li>2 Wedding photographer</li>			
+                        <li>2 Wedding photographer</li>
+						<li>1 Wedding Videographer</li>
                         <li>Bride & Groom Photoshoot</li>			
-                        <li>10 Page 2 krizma album</li>			
-                        <li>Full Event Video double camera</li>			
-                        <li>500 soft copies</li>			
+                        <li>12 Page 1 Story Book</li>			
+                        <li>Full Event Video</li>			
+                        <li>Soft copies</li>			
                         <li>1 Day Drone Camera</li>			
                         <li>Cinematic Video Highlight</li>			
                         <li class="disable">Family Interview</li>			
@@ -346,11 +348,11 @@ include('header.php');
                     </div>		
                     <h2 class="title">Premium</h2>		
                     <ul class="pricing-content">		
-                        <li>3 Senior Wedding photographer</li>			
+                        <li>Senior Wedding photographer</li>
                         <li>Bride & Groom Photoshoot</li>			
-                        <li>10 Page 4 krizma album</li>			
-                        <li class="">Full Event Video double camera</li>			
-                        <li class="">3 Days drone Coverage</li>			                        			
+                        <li>12 Page 2 Story Book</li>			
+                        <li class="">Full Event Video Double Camera</li>			
+                        <li class="">Drone Coverage</li>			                        			
                         <li>Family Interview</li>			
                         <li>Each Day Teaser</li>			
                         <li>Canded Event Coverage</li>			

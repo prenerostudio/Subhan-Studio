@@ -60,7 +60,7 @@
                     <h5>Company</h5>		
                     <ul class="atf-list-menu">		
                         <li>
-                            <a href="#">
+                            <a href="privacy-policy.php">
                                 <i class="fas fa-chevron-right me-2"></i>
                                 Privacy Policy
                             </a>
