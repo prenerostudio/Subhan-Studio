@@ -24,7 +24,8 @@ include('header.php');
                                         <th>#</th>                                  					
                                         <th>Username</th>                                    					
                                         <th>Phone</th>															
-                                        <th>Email</th>					
+                                        <th>Email</th>
+										<th>Subject</th>
                                         <th>Message</th>                                     					
                                         <th>Date Added</th>   					
                                     </tr>                                  				
@@ -39,16 +40,19 @@ include('header.php');
 											<?php echo $mrow['contact_id']; ?>
                                         </td>                                            					
                                         <td>											
-											<?php echo $mrow['username']; ?>
+											<?php echo $mrow['contact_name']; ?>
                                         </td>                                           					
                                         <td class="center">											
-											<?php echo $mrow['phone_number']; ?>
+											<?php echo $mrow['contact_phone']; ?>
                                         </td>															
                                         <td class="center">											
-											<?php echo $mrow['user_email']; ?>
-                                        </td>															
+											<?php echo $mrow['contact_email']; ?>
+                                        </td>
+										<td class="center">											
+											<?php echo $mrow['contact_subject']; ?>
+                                        </td>
                                         <td class="center">											
-											<?php echo $mrow['user_message']; ?>
+											<?php echo $mrow['contact_message']; ?>
                                         </td>                                            					
                                         <td class="center">											
 											<?php echo $mrow['contact_created_at']; ?>

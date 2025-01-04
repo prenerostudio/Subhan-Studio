@@ -65,13 +65,30 @@ include('header.php');
                         </span>			
                     </div>										
                 </div>		
-            </div>						       		
+            </div>
+			<div class="col-lg-3 col-md-6 col-12">	
+                <div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">		
+                    <div class="atf-team-pic">		
+                        <img src="img/team/m-ali.jpg" alt="Junaid JD">			
+                    </div>		
+                    <div class="atf-team-content">									
+                        <h3 class="atf-team-title">
+                            <a href="#">
+                                Muhammad Ali
+                            </a>
+                        </h3>									
+                        <span class="atf-team-post">
+                            Field Management
+                        </span>			
+                    </div>										
+                </div>		
+            </div>
         </div>											
         <div class="row clearfix mt-5">	
             <div class="col-lg-3 col-md-6 col-12">	
                 <div class="atf-single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">		
                     <div class="atf-team-pic">		
-                        <img src="img/team/default.jpg" alt="Raheel Ahmad">			
+                        <img src="img/team/raheel.jpg" alt="Raheel Ahmad">			
                     </div>		
                     <div class="atf-team-content">		
                         <h3 class="atf-team-title">

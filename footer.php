@@ -49,7 +49,7 @@
                             </a>
                         </li>			
                         <li> 
-                            <a href="contact.php"><
+                            <a href="contact.php">
                                 <i class="fas fa-chevron-right me-2"></i>
                                 Contact Us
                             </a>
@@ -60,19 +60,19 @@
                     <h5>Company</h5>		
                     <ul class="atf-list-menu">		
                         <li>
-                            <a href="#">
+                            <a href="privacy-policy.php">
                                 <i class="fas fa-chevron-right me-2"></i>
                                 Privacy Policy
                             </a>
                         </li>			
                         <li>
-                            <a href="#">
+                            <a href="terms-of-service.php">
                                 <i class="fas fa-chevron-right me-2"></i>
                                 Terms of Services
                             </a>
                         </li>			
                         <li>
-                            <a href="#">
+                            <a href="faqs.php">
                                 <i class="fas fa-chevron-right me-2"></i>
                                 FAQ's
                             </a>

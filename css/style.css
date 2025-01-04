@@ -54,7 +54,7 @@ body {
 	--thm-font2: 'Hind', sans-serif;
 	--thm-base: #feda00;
 	--thm-line: linear-gradient(to bottom,#FF416C,#FF4B2B);
-	--thm-color: #ff6363;
+	--thm-color: #ca880a;
 	--thm-black: #0a0a0a;
 	--thm-white: #ffffff;
 	--thm-ase: #afb2bf;
@@ -3350,7 +3350,7 @@ END BLOG DETAILS DESIGN
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: var(--thm-color);
+	background: #ca880a;
 	/* border-radius: 50% 50% 0% 0%/100% 100% 0% 0%; */
 	transform: scaleX(2.1);
 	z-index: -1;

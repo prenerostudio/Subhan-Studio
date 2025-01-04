@@ -40,7 +40,22 @@
         <link rel="stylesheet" href="css/meanmenu.css">	
         <link rel="stylesheet" href="css/swiper.min.css">		
         <link rel="stylesheet" href="css/style.css">		
-        <link rel="stylesheet" href="css/responsive.css">			
+        <link rel="stylesheet" href="css/responsive.css">	
+        
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MY9D8B161H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MY9D8B161H');
+</script>
+
+
+<meta name="google-site-verification" content="7-w9k-UBYMyBmWCA00U5N-6eakOXmhsPMzTvQ3tkMPE" />
+
+		
     </head>
     <body>
         <div class="page-wrapper">				
