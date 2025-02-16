@@ -113,7 +113,16 @@
         </div>	
     </div>    
 </footer>
-</div>			
+</div>	
+
+<div class="whatsapp">
+    <a href="https://web.whatsapp.com/send?phone=+923027509932&text=" target="_blank">
+        <img src="img/business.webp" alt="Whatsapp">    
+    </a>    
+</div>
+
+
+
 <script src="js/jquery-1.12.4.min.js"></script>		
 <script src="js/bootstrap.js"></script>		
 <script src="js/modernizr.custom.js"></script>		

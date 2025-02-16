@@ -3767,3 +3767,16 @@ END BLOG DETAILS DESIGN
 .atf-login__register-now p a:hover {
   color: var(--thm-color);
 }
+
+
+.whatsapp{
+   bottom: 20px;
+    right: 120px;
+	 display: inline;
+	  position: fixed;
+    z-index: 99999999;
+	width:50px;
+}
+.whatsapp img{
+    margin-top: 7px;
+}
