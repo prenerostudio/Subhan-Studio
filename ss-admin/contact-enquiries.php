@@ -27,7 +27,8 @@ include('header.php');
                                         <th>Email</th>
 										<th>Subject</th>
                                         <th>Message</th>                                     					
-                                        <th>Date Added</th>   					
+                                        <th>Time</th>   
+										<th></th>
                                     </tr>                                  				
                                 </thead>                               				
                                 <tbody>						
@@ -56,7 +57,8 @@ include('header.php');
                                         </td>                                            					
                                         <td class="center">											
 											<?php echo $mrow['contact_created_at']; ?>
-                                        </td>                                        					
+                                        </td> 
+										<td> <a href="del-enquiry.php?contact_id=<?php echo $mrow['contact_id']; ?>" class="btn btn-danger">Delete</a> </td>
 									</tr>		
 									<?php									
 									}            
