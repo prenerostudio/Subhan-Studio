@@ -1,3 +1,6 @@
+<?php
+include 'admin/config.php';
+?>
 <!DOCTYPE html>
 <html lang="zxx">
     <head>		
@@ -6,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">			
         <meta name="title" content=" Best photographer in Faisalabad ">	
         <meta name="description" content="Best photographer  in Faisalabad  in limited packages photo and is videography website .subhan  studio is best studio to capture your  future memories. ">    	
-        <meta name="keywords" content="Subhan Studio Best Photographer in Faisalabad">    	
+        <meta name="keywords" content="Subhan Studio Best Photographer in Faisalabad, Subhan Studio Best Photographer in Faisalabad, Photography services Faisalabad, Videography services Faisalabad, Professional photographer Faisalabad, Wedding photography Faisalabad, Event videography Faisalabad, Photo studio Faisalabad, Video studio Faisalabad, Faisalabad photographers, Faisalabad videographers, Photography packages Faisalabad">    	
         <meta name="robots" content="index, follow">    	
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    	
         <meta name="language" content="English">   	
@@ -163,12 +166,16 @@
                                     </li>				
                                     <li class="nav-item">				
                                         <a href="our-team.php" class="nav-link">Our Team</a>					
-                                    </li>				
+                                    </li>
+                                    <li class="nav-item">				
+                                        <a href="blog.php" class="nav-link">Blog</a>					
+                                    </li>
                                     <li class="nav-item atf-menu-btn d-none d-lg-block">				
                                         <a class="atf-themes-btn" href="contact.php" data-hover="Contact Us">
                                             <span>Contact Us</span>
                                         </a>					
-                                    </li>				
+                                    </li>
+                                     
                                 </ul>				
                             </div>			
                         </nav>			

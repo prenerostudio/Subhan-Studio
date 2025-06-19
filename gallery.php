@@ -41,7 +41,7 @@ include('config.php');
                 <div class="atf-single-portfolio">		
                     <div class="portfolio-img">		
                         <a href="ss-admin/uploads/corporate/<?php echo $cdata['ci_img'];?>" data-rel="">
-                            <img src="ss-admin/uploads/corporate/<?php echo $cdata['ci_img'];?>" alt="Corporate Image">
+                            <img src="admin/uploads/corporate/<?php echo $cdata['ci_img'];?>" alt="Corporate Image">
                         </a> 			
                     </div>		                    		
                 </div>		
@@ -56,7 +56,7 @@ include('config.php');
                 <div class="atf-single-portfolio">		
                     <div class="portfolio-img">		
                         <a href="ss-admin/uploads/wedding/<?php echo $wdata['wedding_img'];?>" data-rel="">
-                            <img src="ss-admin/uploads/wedding/<?php echo $wdata['wedding_img'];?>" alt="Wedding Image">
+                            <img src="admin/uploads/wedding/<?php echo $wdata['wedding_img'];?>" alt="Wedding Image">
                         </a> 			
                     </div>		                    		               
                 </div>		            
@@ -71,7 +71,7 @@ include('config.php');
                 <div class="atf-single-portfolio">		
                     <div class="portfolio-img">		
                         <a href="ss-admin/uploads/modal/<?php echo $mdata['mi_img'];?>" data-rel="">
-                            <img src="ss-admin/uploads/modal/<?php echo $mdata['mi_img'];?>" alt="Model Image">
+                            <img src="admin/uploads/modal/<?php echo $mdata['mi_img'];?>" alt="Model Image">
                         </a>			
                     </div>		                    		
                 </div>		
@@ -86,7 +86,7 @@ include('config.php');
                 <div class="atf-single-portfolio">		
                     <div class="portfolio-img">		
                         <a href="ss-admin/uploads/baby/<?php echo $bdata['bs_img'];?>" data-rel="">
-                            <img src="ss-admin/uploads/baby/<?php echo $bdata['bs_img'];?>" alt="Baby Image">
+                            <img src="admin/uploads/baby/<?php echo $bdata['bs_img'];?>" alt="Baby Image">
                         </a> 			
                     </div>		                    		
                 </div>		
@@ -101,7 +101,7 @@ include('config.php');
                 <div class="atf-single-portfolio">								
                     <div class="portfolio-img">									
                         <a href="ss-admin/uploads/product/<?php echo $pdata['ps_img'];?>" data-rel="">
-                            <img src="ss-admin/uploads/product/<?php echo $pdata['ps_img'];?>" alt="Baby Image">
+                            <img src="admin/uploads/product/<?php echo $pdata['ps_img'];?>" alt="Baby Image">
                         </a> 								
                     </div>															
                 </div>						

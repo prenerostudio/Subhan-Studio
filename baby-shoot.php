@@ -33,7 +33,7 @@ include('config.php');
                 <div class="atf-single-portfolio">		
                     <div class="portfolio-img">		
                         <a href="#">
-                            <img src="ss-admin/uploads/baby/<?php echo $mdata['bs_img'];?>" alt="<?php echo $mdata['bs_img'];?>">
+                            <img src="admin/uploads/baby/<?php echo $mdata['bs_img'];?>" alt="<?php echo $mdata['bs_img'];?>">
                         </a> 			
                     </div>		                    		
                 </div>		

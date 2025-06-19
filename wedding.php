@@ -24,23 +24,32 @@ include('config.php');
             </div>					            
         </div>	        						
         <div class="atf-portfolio-grid">      
-			<?php                
+			
+            <?php                
             $fetch = "SELECT * FROM `wedding_shoot`";                
             $run_fetch_query = mysqli_query($connect, $fetch);                
             while ($data = mysqli_fetch_array($run_fetch_query)) {                                
-			?>						
+			
+                ?>						
             <div class="col-lg-4 col-md-6 col-12 grid-item filter2">	
                 <div class="atf-single-portfolio">		
                     <div class="portfolio-img">		
                         <a href="#">
-                            <img src="ss-admin/uploads/wedding/<?php echo $data['wedding_img'];?>" alt="<?php echo $data['wedding_img'];?>">
-						</a>			
+                            <img src="admin/uploads/wedding/<?php echo $data['wedding_img'];?>" alt="<?php echo $data['wedding_img'];?>">
+						
+                        </a>			
                     </div>										
                 </div>		
-			</div>    
-			<?php				                         
-			}					            
-			?>																	
+			
+            </div>    
+			
+                            
+                <?php				                         
+			
+                
+            }					            
+			
+            ?>																	
         </div>				
     </div>			
 </section>

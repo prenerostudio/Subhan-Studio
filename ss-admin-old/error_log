@@ -1,0 +1,54 @@
+[27-Dec-2024 22:29:11 Asia/Karachi] PHP Warning:  Undefined array key "ctg_img" in /home/prenqqnb/subhanstudio.com/ss-admin/category.php on line 44
+[27-Dec-2024 22:29:11 Asia/Karachi] PHP Warning:  Undefined array key "ctg_img" in /home/prenqqnb/subhanstudio.com/ss-admin/category.php on line 44
+[27-Dec-2024 22:29:11 Asia/Karachi] PHP Warning:  Undefined array key "ctg_img" in /home/prenqqnb/subhanstudio.com/ss-admin/category.php on line 44
+[27-Dec-2024 22:29:11 Asia/Karachi] PHP Warning:  Undefined array key "ctg_img" in /home/prenqqnb/subhanstudio.com/ss-admin/category.php on line 44
+[27-Dec-2024 22:29:11 Asia/Karachi] PHP Warning:  Undefined array key "ctg_img" in /home/prenqqnb/subhanstudio.com/ss-admin/category.php on line 44
+[27-Dec-2024 22:29:24 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[27-Dec-2024 22:29:24 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[27-Dec-2024 22:32:01 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[27-Dec-2024 22:32:01 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[27-Dec-2024 22:37:25 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[27-Dec-2024 22:37:25 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[28-Dec-2024 13:44:42 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[28-Dec-2024 13:44:42 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[29-Dec-2024 10:35:24 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[29-Dec-2024 10:35:24 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[30-Dec-2024 11:54:33 UTC] PHP Parse error:  Unclosed '{' on line 37 in /home/prenqqnb/subhanstudio.com/ss-admin/corporate-img.php on line 77
+[02-Jan-2025 14:37:06 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[02-Jan-2025 14:37:06 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[02-Jan-2025 14:37:12 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[02-Jan-2025 14:37:12 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[02-Jan-2025 14:37:14 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[02-Jan-2025 14:37:14 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[04-Jan-2025 15:50:02 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[04-Jan-2025 15:50:02 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[04-Jan-2025 22:28:09 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[04-Jan-2025 22:28:09 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[04-Jan-2025 22:28:20 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[04-Jan-2025 22:28:20 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[05-Jan-2025 07:36:46 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[05-Jan-2025 07:36:46 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[07-Jan-2025 11:01:36 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[07-Jan-2025 11:01:36 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[07-Jan-2025 11:02:04 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[07-Jan-2025 11:02:04 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[16-Jan-2025 00:41:19 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[16-Jan-2025 00:41:19 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[26-Jan-2025 00:00:44 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[26-Jan-2025 00:00:44 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[26-Jan-2025 00:01:15 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[26-Jan-2025 00:01:15 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[28-Jan-2025 22:14:52 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[28-Jan-2025 22:14:52 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[30-Jan-2025 12:47:05 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[30-Jan-2025 12:47:05 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[30-Jan-2025 12:47:24 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[30-Jan-2025 12:47:24 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[18-Feb-2025 18:34:51 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[18-Feb-2025 18:34:51 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[19-Mar-2025 23:04:32 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[19-Mar-2025 23:04:32 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[20-Mar-2025 23:31:24 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[20-Mar-2025 23:31:24 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
+[06-May-2025 18:15:18 Asia/Karachi] PHP Warning:  Undefined variable $fname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 6
+[06-May-2025 18:15:18 Asia/Karachi] PHP Warning:  Undefined variable $lname in /home/prenqqnb/subhanstudio.com/ss-admin/header.php on line 7
