@@ -30,7 +30,7 @@ include 'header.php';
                             </div>
                             <div class=" mb-3">
                                 <label for="Product-Category" class="form-label">Post Description</label>
-                                <textarea rows="9" class="form-control" name="desc"></textarea>
+                                <textarea rows="9" class="form-control" name="desc" id="desc"></textarea>
                                 			
                             </div>
                             <div class="col-sm-12 text-end">                            			

@@ -107,21 +107,27 @@ if (isset($_POST['ctg'])) {
 
 
 if (isset($_POST['new_post'])) {
-        
+
     $title = $_POST['title'];
-    $desc = $_POST['desc'];     
-    
-    $target = "uploads/blog/" . basename($_FILES['fi']['name']);   
-    $fi_image = $_FILES['fi']['name'];   
-    move_uploaded_file($_FILES['fi']['tmp_name'], $target);   
-    $sql = "INSERT INTO `blog_post`(`post_title`, `post_img`, `post_details`) VALUES ('$title','$fi_image','$desc')";  
-    $result = mysqli_query($connect, $sql);	
-    if($result){			
-        header('location: all-post.php');	        
-    }else{		
-        header('location: all-post.php');			        
-    }			
+    $desc = $_POST['desc'];
+
+    $target = "uploads/blog/" . basename($_FILES['fi']['name']);
+    $fi_image = $_FILES['fi']['name'];
+    move_uploaded_file($_FILES['fi']['tmp_name'], $target);
+
+    $stmt = $connect->prepare("INSERT INTO blog_post (post_title, post_img, post_details) VALUES (?, ?, ?)");
+    $stmt->bind_param("sss", $title, $fi_image, $desc);
+
+    if ($stmt->execute()) {
+        header('location: all-post.php');
+    } else {
+        echo "Error: " . $stmt->error; // optional: better error handling
+        header('location: all-post.php');
+    }
+
+    $stmt->close();
 }
+
 
 if (isset($_POST['update_post'])) {
     $post_id = $_POST['post_id'];
